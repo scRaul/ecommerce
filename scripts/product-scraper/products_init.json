@@ -1,0 +1,2591 @@
+[
+  {
+    "id": "01t5i0000055ldGAAQ",
+    "name": "CSM34X5L-A Conveyor Smart Motor",
+    "sku": "CSM34X5L-A",
+    "stock": "66",
+    "unit_price": 380,
+    "includedItems": [
+      "CSM34X5L-A StepSERVO Motor",
+      "CSM34X5L-A StepSERVO Motor"
+    ],
+    "features": [
+      "Integrated Motor and Drive",
+      "StepSERVO close loop position/speed control",
+      "Gearless motion solution",
+      "Up to 6Nm torque output",
+      "Direct plug-in connection for quick installation",
+      "On the fly speed change",
+      "2 configurable speed settings on motor",
+      "5 digit, 7 segment motor status display",
+      "Push button configuration and jog motion",
+      "Optional <a style=\"background-color: rgb(255, 255, 255);\" target=\"_blank\" href=\"https://www.applied-motion.com/s/product/step-drive-remote-panelcpdbaccsm34x/01t5i000007WFeDAAW?name=CPDB-A-C-CSM34-Remote-Control-Module\" c-b2bproductdetaildescription_b2bproductdetaildescription=\"\"><strong c-b2bproductdetaildescription_b2bproductdetaildescription=\"\">CSM34 Remote Control</strong></a> for easy access (sold separately)"
+    ],
+    "description": "<p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">With a space saving design, the CSM34 is a fully integrated, all in one drive and motor that eliminates the need for separate cabinets, gearheads, and extra wiring which reduces the overall footprint of the conveyor system.</p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">The direct panel control and status display on the motor makes it easy for control and monitoring and for operators to configure the system without the need for external computers or communication wiring.</p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Also, with high torque at low speeds and a service life of over 20,000 hours, the CSM34 motor is built to outlast traditional AC induction or brushless motors and gearheads.</p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">StepSERVO Closed-Loop Stepper Technology</strong></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">StepSERVO technology combines the high torque capabilities of a step motor with the closed loop dynamic control of a servo system. The result is a highly configurable all-in-one motion control solution that operates quietly and efficiently, requiring only the minimum amount of current to maintain commanded position and velocity. Boost (or peak) torque that is higher than the rated holding torque increases the limits of acceleration, leading to faster cycle times. StepSERVO integrated motors can be applied in systems where a traditional stepper motor would not be capable of achieving the high accuracy required.</p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">IO Control</strong></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Each CSM34 integrated motor comes with 4 digital inputs and 2 digital outputs. The digital inputs accept signals of 5-24 VDC and can be used for direct motor control, motor rotation direction, clear alarm, motor disable and secondary speed. The digital outputs can be used for alarm output and dynamics in position signal.</p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">7 Segment Status Display with Control Switch</strong></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">CSM has built in 7 segment display for motor status, operator can monitor motor speed, alarm status from the display. The 4 push button for motor operation control allows the operator to directly configure the motor speed, acceleration, and perform testing moves.</p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Optional Remote Control Panel</strong></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">The CSM34 motor has an optional remote control. It can be connected to the communication port on the back of the motors. Remote offers the same control and display functionality as the built-in panel and button with no additional power supplier required.</p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">UL Recognized</strong></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">This StepSERVO Integrated Motor is UL Recognized in the US and Canada, file no. E515393.</p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">To learn more on how our CSM34s meet UL requirements, read our <a target=\"_blank\" href=\"https://applied-motion.s3.amazonaws.com/documents/Marketing/CSM34%20Product%20Change%20Notification.pdf\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">CSM34 Product Change Notification</a>.</p>",
+    "specs": [
+      {
+        "key": "Supply Voltage",
+        "value": "24-60 VDC"
+      },
+      {
+        "key": "Supply Voltage Type",
+        "value": "DC"
+      },
+      {
+        "key": "Current Draw from Power Supply",
+        "value": "6 A max"
+      },
+      {
+        "key": "Control Modes",
+        "value": "Velocity Control"
+      },
+      {
+        "key": "Encoder Feedback",
+        "value": "Yes"
+      },
+      {
+        "key": "Encoder Resolution",
+        "value": "2,000 lines (8,000 counts quadrature)"
+      },
+      {
+        "key": "Setup Method",
+        "value": "DIP switches"
+      },
+      {
+        "key": "Analog Inputs",
+        "value": "4 Optical Isolated, differential input, 5-24VDC"
+      },
+      {
+        "key": "Circuit Protection",
+        "value": "Over-temp"
+      },
+      {
+        "key": "Status LEDs",
+        "value": "Digital Display"
+      },
+      {
+        "key": "Frame Size",
+        "value": "NEMA 34"
+      },
+      {
+        "key": "Max. Boost Torque",
+        "value": "7.9 N-m"
+      },
+      {
+        "key": "Step Angle",
+        "value": "1.8 deg"
+      },
+      {
+        "key": "Rotor Inertia",
+        "value": "2200 g-cm^2"
+      },
+      {
+        "key": "Length",
+        "value": "6.63 in"
+      },
+      {
+        "key": "Weight",
+        "value": "4.41 kg"
+      },
+      {
+        "key": "Operating Temperature Range",
+        "value": "0.000 - 40.000 ºC"
+      },
+      {
+        "key": "Ambient Humidity",
+        "value": "Below 90%"
+      },
+      {
+        "key": "Insulation Class",
+        "value": "Class B (130 ºC)"
+      },
+      {
+        "key": "Shaft Diameter",
+        "value": "14 mm"
+      },
+      {
+        "key": "Max Continuous Torque",
+        "value": "1036 oz-in"
+      },
+      {
+        "key": "Stall Detection",
+        "value": "Yes"
+      },
+      {
+        "key": "Speed Setting",
+        "value": "Motor Control Panel"
+      },
+      {
+        "key": "Speed Range",
+        "value": "0-2000 rpm"
+      },
+      {
+        "key": "Outputs",
+        "value": "2 optical isolated, 30VDC/100mA max"
+      },
+      {
+        "key": "Alarm Output",
+        "value": "Yes"
+      },
+      {
+        "key": "Step Resolution",
+        "value": "Microstepping"
+      }
+    ],
+    "files": [
+      {
+        "label": "920-0160_RevD_CSM34 Hardware Manual_Interactive.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Manuals/920-0160_RevD_CSM34%20Hardware%20Manual_Interactive.pdf"
+      },
+      {
+        "label": "CSM34X5L-A_RevB.PDF",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/2D-Drawing/CSM34X5L-A_RevB.PDF"
+      },
+      {
+        "label": "CSM34X5L-A_RevB.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/3D-Model/CSM34X5L-A_RevB.zip"
+      },
+      {
+        "label": "925-0069_RevB_CSM Data Sheet.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Datasheets/925-0069_RevB_CSM%20Data%20Sheet.pdf"
+      }
+    ]
+  },
+  {
+    "id": "01t5i00000565ymAAA",
+    "name": "MBDV-520AC-H01 DC Powered Single Axis Servo Drive w/ CANopen and Modbus",
+    "sku": "MBDV-520AC-H01",
+    "stock": "6",
+    "unit_price": 589,
+    "includedItems": [
+      "MBDV-520A-H01 Drive",
+      "Quick Setup Guide (QR code on drive)"
+    ],
+    "features": [
+      "<span style=\"font-size: 11pt; background-color: transparent;\" c-b2bproductdetaildescription_b2bproductdetaildescription=\"\">High Current output per Axis (20 A Continuous per Axis, 60 A Peak per Axis)</span>",
+      "<span style=\"font-size: 11pt;\" c-b2bproductdetaildescription_b2bproductdetaildescription=\"\">Q programming control mode for stand-alone operation</span>",
+      "<span style=\"font-size: 11pt; background-color: transparent;\" c-b2bproductdetaildescription_b2bproductdetaildescription=\"\">Includes Electromagnetic brake control</span>",
+      "<span style=\"font-size: 11pt; background-color: transparent;\" c-b2bproductdetaildescription_b2bproductdetaildescription=\"\">Dynamic braking capable</span>",
+      "<span style=\"font-size: 11pt; background-color: transparent;\" c-b2bproductdetaildescription_b2bproductdetaildescription=\"\">Regen control and support regen resistor usage</span>",
+      "<span style=\"font-size: 11pt; background-color: transparent;\" c-b2bproductdetaildescription_b2bproductdetaildescription=\"\">Regenerative braking configuration&nbsp;</span>",
+      "<span style=\"font-size: 11pt; background-color: transparent;\" c-b2bproductdetaildescription_b2bproductdetaildescription=\"\">Supports up to 750 W Servo motors</span>",
+      "<span style=\"font-size: 11pt; background-color: transparent;\" c-b2bproductdetaildescription_b2bproductdetaildescription=\"\">E-stop presets</span>",
+      "<span style=\"font-size: 11pt; background-color: transparent;\" c-b2bproductdetaildescription_b2bproductdetaildescription=\"\">Encoder output to primary controllers and safety controllers</span>",
+      "<span style=\"font-size: 11pt; background-color: transparent;\" c-b2bproductdetaildescription_b2bproductdetaildescription=\"\">STO (SIL2) standard compliance</span>"
+    ],
+    "description": "<p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><strong style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Drive Features</strong></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">&nbsp;</span></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">The MBDV servo drive is a DC powered drive for controlling 8-pole servo motors. It offers many features designed with the AGV industry in mind. These include built-in electromagnetic brake control, dynamic braking capability, regenerative braking configuration, E-Stop presets, encoder output to primary controllers, and safety controllers. With added safety in mind, these multi-axis drives have been tested and comply with STO (SIL2) standards. To meet the high-power demands of many AGV applications, the drive can output 20 A of continuous current and 60 A peak current – all packaged within a compact footprint.</span></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">&nbsp;</span></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Packaged along with our latest software, Luna, this drive solution can be a powerful tool to leverage during the development stages. The software permits users to use auto-tuning functions that arrive to highly accurate PID loop values. Users also gain access to several tools for monitoring such as scope that allows for four channel monitoring, parameter tables for easy editing, and many more.</span></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">&nbsp;</span></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><strong style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Drive Variations</strong></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">&nbsp;</span></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">The MBDV comes in two variations, single and dual axis. The above features are included in both. The dual axis drive offers individual configuration and control of each axis. This allows a unique NODEID or RS-485 address to be assigned to each axis. Different operation settings may also be selected for each drive and the IO connector shared between both axes includes IO for each axis.</span></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">&nbsp;</span></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><strong style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Communications</strong></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><strong style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">&nbsp;</strong></p><table style=\"border: none;\" border=\"1\" class=\"ql-table-blob\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><tbody c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><tr c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><td width=\"126\" style=\"width: 94.25pt; border: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt;\" valign=\"top\" rowspan=\"1\" colspan=\"1\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><p class=\"MsoNormal\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><b c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Drive Part No.</span></b></p></td><td width=\"186\" style=\"width: 139.5pt; border: solid windowtext 1.0pt; border-left: none; padding: 0in 5.4pt 0in 5.4pt;\" valign=\"top\" rowspan=\"1\" colspan=\"1\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><p class=\"MsoNormal\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><b c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Communications</span></b></p></td><td width=\"312\" style=\"width: 233.75pt; border: solid windowtext 1.0pt; border-left: none; padding: 0in 5.4pt 0in 5.4pt;\" valign=\"top\" rowspan=\"1\" colspan=\"1\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><p class=\"MsoNormal\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><b c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Description</span></b></p></td></tr><tr c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><td width=\"126\" style=\"width: 94.25pt; border: solid windowtext 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt;\" valign=\"top\" rowspan=\"2\" colspan=\"1\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><p style=\"text-align: center;\" class=\"MsoNormal\" align=\"center\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">&nbsp;</span></p><p style=\"text-align: center;\" class=\"MsoNormal\" align=\"center\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">&nbsp;</span></p><p style=\"text-align: center;\" class=\"MsoNormal\" align=\"center\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">&nbsp;</span></p><p style=\"text-align: center;\" class=\"MsoNormal\" align=\"center\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">&nbsp;</span></p><p style=\"text-align: center;\" class=\"MsoNormal\" align=\"center\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">MBDV</span></p></td><td width=\"186\" style=\"width: 139.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt;\" valign=\"top\" rowspan=\"1\" colspan=\"1\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><p style=\"text-align: center;\" class=\"MsoNormal\" align=\"center\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">&nbsp;</span></p><p style=\"text-align: center;\" class=\"MsoNormal\" align=\"center\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">&nbsp;</span></p><p style=\"text-align: center;\" class=\"MsoNormal\" align=\"center\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">CANopen</span></p></td><td width=\"312\" style=\"width: 233.75pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt;\" valign=\"top\" rowspan=\"1\" colspan=\"1\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><p style=\"\" class=\"MsoListParagraphCxSpFirst\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Symbol; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">·<span style=\"font-size: 7pt;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n  </span></span><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Conforms to CiA402 and CiA301 specifications.</span></p><p style=\"\" class=\"MsoListParagraphCxSpMiddle\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Symbol; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">·<span style=\"font-size: 7pt;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n  </span></span><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Supports Profile Positioning, Profile\n  Velocity, Profile Torque, and Homing Modes for CANopen.</span></p><p style=\"\" class=\"MsoListParagraphCxSpLast\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Symbol; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">·<span style=\"font-size: 7pt;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n  </span></span><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Supports daisy chain communications\n  over CANopen.</span></p></td></tr><tr c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><td width=\"186\" style=\"width: 139.5pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt;\" valign=\"top\" rowspan=\"1\" colspan=\"1\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><p style=\"text-align: center;\" class=\"MsoNormal\" align=\"center\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">&nbsp;</span></p><p style=\"text-align: center;\" class=\"MsoNormal\" align=\"center\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">RS-485\n  (Modbus RTU)</span></p></td><td width=\"312\" style=\"width: 233.75pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt;\" valign=\"top\" rowspan=\"1\" colspan=\"1\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><p style=\"\" class=\"MsoListParagraphCxSpFirst\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Symbol; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">·<span style=\"font-size: 7pt;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n  </span></span><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Supports Applied Motion’s SCL over\n  RS-485.</span></p><p style=\"\" class=\"MsoListParagraphCxSpMiddle\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Symbol; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">·<span style=\"font-size: 7pt;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n  </span></span><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Supports Modbus RTU over RS-485.</span></p><p style=\"\" class=\"MsoListParagraphCxSpLast\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><span style=\"font-size: 10.5pt; font-family: Symbol; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">·<span style=\"font-size: 7pt;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n  </span></span><span style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Supports daisy chain communications\n  over RS-485.</span></p></td></tr></tbody></table><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><strong style=\"font-size: 10.5pt; font-family: Roboto; color: black;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">&nbsp;</strong></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Not Included</strong></p><ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Compatible Motor (required)</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">DC Power Supply (required)</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">I/O cable (optional)</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Regen clamp (optional)</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">USB to USB Mini cable (optional, required for AMP software utilization)</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Encoder Output cable (optional)</li></ul><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">UL Recognized</strong></p><p c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">This drive is UL Recognized in the US and Canada, file no. E332730.</p>",
+    "specs": [
+      {
+        "key": "Supply Voltage",
+        "value": "24-60 VDC"
+      },
+      {
+        "key": "Supply Voltage Type",
+        "value": "DC"
+      },
+      {
+        "key": "Control Modes",
+        "value": "Q programming"
+      },
+      {
+        "key": "Communication Protocols",
+        "value": "RS-485"
+      },
+      {
+        "key": "Output Current, Continuous",
+        "value": "20 A/phase"
+      },
+      {
+        "key": "Output Current, Peak",
+        "value": "60 A/phase"
+      },
+      {
+        "key": "Setup Method",
+        "value": "Software setup"
+      },
+      {
+        "key": "Digital Inputs",
+        "value": "4"
+      },
+      {
+        "key": "Digital Outputs",
+        "value": "2 and 1 dedicated brake output"
+      },
+      {
+        "key": "Dimensions",
+        "value": "4.25 x 3.15 x 1.66 in"
+      },
+      {
+        "key": "Weight",
+        "value": "0.88 LBS"
+      },
+      {
+        "key": "Ambient Temperature Range",
+        "value": "32 to 104 °F"
+      },
+      {
+        "key": "Ambient Humidity",
+        "value": "10% - 85%, non-condensing"
+      },
+      {
+        "key": "Status LEDs",
+        "value": "Digital Display"
+      },
+      {
+        "key": "Circuit Protection",
+        "value": "Short circuit, Over-volrage, Under-voltage, Over-temp"
+      },
+      {
+        "key": "Safety Torque Off (STO)",
+        "value": "Built-in"
+      },
+      {
+        "key": "Electromagnetic Brake Power",
+        "value": "24 VDC"
+      },
+      {
+        "key": "Dynamic Braking",
+        "value": "Yes"
+      },
+      {
+        "key": "Regen Control",
+        "value": "Yes"
+      },
+      {
+        "key": "Operating Temperature",
+        "value": "32 to 158 °F"
+      },
+      {
+        "key": "Encoder Feedback",
+        "value": "16-bit Encoder Feedback (optional secondary 1,000 line encoder)"
+      }
+    ],
+    "files": [
+      {
+        "label": "920-0164_RevA_MBDV Hardware Manual_interactive.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Manuals/920-0164_RevA_MBDV%20Hardware%20Manual_interactive.pdf"
+      },
+      {
+        "label": "CANOPEN_EDS_MBDV_Servo_SingleAxis_V1.1.1.eds",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Manuals/CANOPEN_EDS_MBDV_Servo_SingleAxis_V1.1.1.eds"
+      },
+      {
+        "label": "MBDV-520AC-H01_RevA.PDF",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/2D-Drawing/MBDV-520AC-H01_RevA.PDF"
+      },
+      {
+        "label": "MBDV-520AC-H01_RevA.STEP",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/3D-Model/MBDV-520AC-H01_RevA.STEP"
+      }
+    ]
+  },
+  {
+    "id": "01t5i000000y1f4AAA",
+    "name": "TSM11Q-3RM-H01 NEMA 11 StepSERVO Integrated Motor w/ Daisy-chain connectors, Q Prog. & Modbus RTU",
+    "sku": "TSM11Q-3RM-H01",
+    "stock": "7",
+    "unit_price": 407,
+    "includedItems": [
+      "TSM11Q-3RM-H01 with enhanced (separate) connectors for power & I/O and comms",
+      "3004-358 power and I/O cable"
+    ],
+    "features": [
+      "StepSERVO™ technology featuring space vector current control",
+      "NEMA 11 frame size",
+      "Enhanced (separate) connectors for power &amp; I/O and comms",
+      "Q programming control mode for stand-alone operation",
+      "Modbus RTU for easy PLC and HMI communication",
+      "SERVO \"Boost\" torque of 25-50% higher than holding torque",
+      "Dual RS-485 ports for programming, communications, and daisy-chain network connections",
+      "Built-in 4,096 count/rev encoder for closed-loop control"
+    ],
+    "description": "The TSM11Q-3RM-H01 StepSERVO integrated motor is a variation of the standard TSM11Q-3RM. This \"H01\" version includes a pre-assembled connector module that separates the single connector of the standard motor into three separate connectors - one connector for power and I/O, one for RS-485 in, and one for RS-485 out - which facilitates easier connections for daisy-chained RS-485 and Modbus RTU networks.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> For more information on the functionality and capabilities of this integrated motor see the standard <a target=\"_blank\" href=\"/products/StepSERVOintegrated-motors/tsm11q-3rm\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">TSM11Q-3RM</a> page.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Optional Planetary Gearheads</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <img height=\"98\" width=\"175\" alt=\"TSM11Q Gearmotor\" src=\"/sites/default/files/TSM11Q-with-PH-gear_3699-2-175x98.jpg\" style=\"float: right;\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">This integrated motor is available with a factory-installed planetary gearhead for applications requiring additional torque. PH gearheads feature an all-steel gear train, stainless steel housing, and aluminum front and rear flanges for maximum durability. Multiple ratios are available. Click here to view part numbers and options: <a target=\"_blank\" href=\"/products/ph-mini-planetary-gearheads#tsm11q\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">products/ph-mini-planetary-gearheads</a>.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">NOT included:</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">DC power supply (required), see Power Supplies below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Additional accessories available below</li></ul>",
+    "specs": [
+      {
+        "key": "Supply Voltage",
+        "value": "15-30 VDC"
+      },
+      {
+        "key": "Supply Voltage Type",
+        "value": "DC"
+      },
+      {
+        "key": "Current Draw from Power Supply",
+        "value": "1.1 A max"
+      },
+      {
+        "key": "Control Modes",
+        "value": "Modbus RTU"
+      },
+      {
+        "key": "Encoder Feedback",
+        "value": "Yes"
+      },
+      {
+        "key": "Encoder Resolution",
+        "value": "1,024 lines (4,096 counts quadrature)"
+      },
+      {
+        "key": "Setup Method",
+        "value": "Software setup"
+      },
+      {
+        "key": "Digital Inputs",
+        "value": "4"
+      },
+      {
+        "key": "Digital Outputs",
+        "value": "2"
+      },
+      {
+        "key": "Analog Inputs",
+        "value": "none"
+      },
+      {
+        "key": "Circuit Protection",
+        "value": "Short circuit, Over-voltage, Under-voltage, Over-temp"
+      },
+      {
+        "key": "Status LEDs",
+        "value": "1 red, 1 green"
+      },
+      {
+        "key": "Frame Size",
+        "value": "NEMA 11"
+      },
+      {
+        "key": "Holding Torque",
+        "value": "17.7 oz-in"
+      },
+      {
+        "key": "Max. Boost Torque",
+        "value": "25.5 oz-in"
+      },
+      {
+        "key": "Step Angle",
+        "value": "1.8 deg"
+      },
+      {
+        "key": "Rotor Inertia",
+        "value": "18.01 g-cm^2"
+      },
+      {
+        "key": "Length",
+        "value": "71.12 mm"
+      },
+      {
+        "key": "Weight",
+        "value": "0.22 kg"
+      },
+      {
+        "key": "Operating Temperature Range",
+        "value": "0 to 40 °C"
+      },
+      {
+        "key": "Ambient Temperature Range",
+        "value": "0 to 85 °C"
+      },
+      {
+        "key": "Ambient Humidity",
+        "value": "90% max, non-condensing"
+      },
+      {
+        "key": "Insulation Class",
+        "value": "Class B (130°C)"
+      },
+      {
+        "key": "Shaft Diameter",
+        "value": "5 mm"
+      },
+      {
+        "key": "Communication Protocols",
+        "value": "RS-485"
+      }
+    ],
+    "files": [
+      {
+        "label": "Sample Code: scldemo.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Sample-Code/scldemo.zip"
+      },
+      {
+        "label": "SCL Utility",
+        "url": "https://www.applied-motion.com/s/software/scl-utility"
+      },
+      {
+        "label": "Step-Servo Quick Tuner",
+        "url": "https://www.applied-motion.com/s/software/step-servo-quick-tuner"
+      },
+      {
+        "label": "Host-Command-Reference_920-0002W.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/Host-Command-Reference_920-0002W_0.pdf"
+      },
+      {
+        "label": "920-0099_RevG_TSM11_Hardware Manual.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Manuals/920-0099_RevG_TSM11_Hardware%20Manual.pdf"
+      },
+      {
+        "label": "TSM11_Quick Set up Guide_920-0098D.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/TSM11_Quick%20Set%20up%20Guide_920-0098D.pdf"
+      },
+      {
+        "label": "TSM11-Daisy-Chain-Board-Assembly-Guide-920-0123A.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Manuals/TSM11-Daisy-Chain-Board-Assembly-Guide-920-0123A.pdf"
+      },
+      {
+        "label": "TSM11Q-3RM-H01_RevC.PDF",
+        "url": "https://appliedmotion.s3.amazonaws.com/TSM11Q-3RM-H01_RevC.PDF"
+      },
+      {
+        "label": "TSM11Q-3RM-H01_RevC.STEP",
+        "url": "https://appliedmotion.s3.amazonaws.com/TSM11Q-3RM-H01_RevC.STEP"
+      },
+      {
+        "label": "StepSERVO Tuning Guide_962-0002A.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/StepSERVO-Tuning-Guide_962-0002A.pdf"
+      },
+      {
+        "label": "APPN0040A_Hard-Stop_Homing_StepSERVO-SV200.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/APPN0040A_Hard-Stop_Homing_StepSERVO-SV200.pdf"
+      },
+      {
+        "label": "APPN0034B-ModbusRTU-from-Proface-HMI-with-Q.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/APPN0034B-ModbusRTU-from-Proface-HMI-with-Q.zip"
+      }
+    ]
+  },
+  {
+    "id": "01t5i000000xyzNAAQ",
+    "name": "TSM17P-3AG NEMA 17 Integrated StepSERVO Motor w/ Pulse & Direction Control",
+    "sku": "TSM17P-3AG",
+    "stock": "1",
+    "unit_price": 547,
+    "includedItems": [
+      "TSM17P-3AG integrated motor",
+      "Mating power connector (2-pin)"
+    ],
+    "features": [
+      "StepSERVO™ technology featuring space vector current control",
+      "NEMA 17 frame size",
+      "Step &amp; Direction, A/B Quadrature and CW/CCW control modes",
+      "SERVO \"Boost\" torque of 25-50% higher than holding torque",
+      "RS-232 port for configuration and servo tuning",
+      "Built-in 20,000 count/rev encoder for closed-loop control"
+    ],
+    "description": "The TSM17P-3AG integrated StepSERVO is a drive+motor unit, fusing a NEMA 17 step motor and a servo drive into a single device. Power to the drive, located at the rear of the motor, must be supplied by an external DC supply. See Related and Recommended Products below for compatible 24 and 48 volt DC power supplies. <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> StepSERVOtechnology combines the high torque capabilities of a step motor with the closed loop dynamic control of a servo system. The result is a highly customizable motion control solution that operates quietly and efficiently, requiring only the minimum amount of current to maintain commanded position and velocity. Boost torque of 25-50% higher than rated holding torque increases the limits of acceleration, leading to faster cycle times. StepSERVOintegrated motors can be applied in systems where a traditional stepper motor would not be capable of achieving the high accuracy required.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> The TSM17P-3AG integrated StepSERVOcomes with 4 digital inputs and 3 digital outputs and is designed for step &amp; direction control from an external controller. The external controller can be a motion controller, PLC, or other device that provides two digital outputs: one output for digital pulses to control position and velocity of the motor, and a second output to control the direction of the motor, CW and CCW. An additional control mode, known as Encoder Following or A/B Quadrature, can also be used to control this motor. The third and fourth digital inputs may be used for servo enable and alarm reset functions respectively. The digital inputs accept signals of 5-24 VDC and are used for connecting pulse &amp; direction signals or quadrature encoder signals, as well as PLC outputs, sensors, or relays. The digital outputs can be connected to PLC inputs, counters, lights, relays, or other devices. <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> The TSM17P-3AG comes with an RS-232 port for configuration and servo loop tuning with Applied Motion's Step-Servo Quick Tuner software. An integral 5000-line (20,000 count/rev) incremental encoder is housed inside the same enclosure as the drive electronics and used for closed-loop servo control to attain highly accurate position and velocity control. These differential encoder signals (A,B,Z channels) can be accessed directly from the I/O connector pins for use with a 3rd party multi-axis controller.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">NOT included:</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">DC power supply (required), see Power Supplies below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Additional accessories available below</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">",
+    "specs": [
+      {
+        "key": "Supply Voltage",
+        "value": "12-48 VDC"
+      },
+      {
+        "key": "Supply Voltage Type",
+        "value": "DC"
+      },
+      {
+        "key": "Current Draw from Power Supply",
+        "value": "1.35 A max"
+      },
+      {
+        "key": "Control Modes",
+        "value": "Step & Direction"
+      },
+      {
+        "key": "Encoder Feedback",
+        "value": "Yes"
+      },
+      {
+        "key": "Encoder Resolution",
+        "value": "5,000 lines (20,000 counts quadrature)"
+      },
+      {
+        "key": "Setup Method",
+        "value": "Software setup"
+      },
+      {
+        "key": "Digital Inputs",
+        "value": "4"
+      },
+      {
+        "key": "Digital Outputs",
+        "value": "3"
+      },
+      {
+        "key": "Circuit Protection",
+        "value": "Short circuit, Over-voltage, Under-voltage, Over-temp"
+      },
+      {
+        "key": "Status LEDs",
+        "value": "1 red, 1 green"
+      },
+      {
+        "key": "Frame Size",
+        "value": "NEMA 17"
+      },
+      {
+        "key": "Holding Torque",
+        "value": "73 oz-in"
+      },
+      {
+        "key": "Max. Boost Torque",
+        "value": "96.3 oz-in"
+      },
+      {
+        "key": "Step Angle",
+        "value": "1.8 deg"
+      },
+      {
+        "key": "Rotor Inertia",
+        "value": "81.91 g-cm^2"
+      },
+      {
+        "key": "Length",
+        "value": "83.31 mm"
+      },
+      {
+        "key": "Weight",
+        "value": "0.44 kg"
+      },
+      {
+        "key": "Operating Temperature Range",
+        "value": "0 to 40 °C"
+      },
+      {
+        "key": "Ambient Temperature Range",
+        "value": "0 to 85 °C"
+      },
+      {
+        "key": "Ambient Humidity",
+        "value": "90% max, non-condensing"
+      },
+      {
+        "key": "Insulation Class",
+        "value": "Class B (130°C)"
+      },
+      {
+        "key": "Shaft Diameter",
+        "value": "6 mm"
+      },
+      {
+        "key": "Maximum Radial Load",
+        "value": "10 lbs"
+      },
+      {
+        "key": "Maximum Thrust Load",
+        "value": "Less than 1 lbs"
+      },
+      {
+        "key": "Communication Protocols",
+        "value": "RS-232"
+      }
+    ],
+    "files": [
+      {
+        "label": "Sample Code: scldemo.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Sample-Code/scldemo.zip"
+      },
+      {
+        "label": "SCL Utility",
+        "url": "https://www.applied-motion.com/s/software/scl-utility"
+      },
+      {
+        "label": "Step-Servo Quick Tuner",
+        "url": "https://www.applied-motion.com/s/software/step-servo-quick-tuner"
+      },
+      {
+        "label": "920-0079B_TSM17P_QuickSetup_RevB.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/920-0079B_TSM17P_QuickSetup_RevB.pdf"
+      },
+      {
+        "label": "920-0086_RevE_TSM17P_Hardware_Manual_Interactive.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Manuals/920-0086_RevE_TSM17P_Hardware_Manual_Interactive.pdf"
+      },
+      {
+        "label": "TSM17P-3AG_RevB.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/TSM17P-3AG_RevB.pdf"
+      },
+      {
+        "label": "TSM17P-3AG_RevB.zip",
+        "url": "https://appliedmotion.s3.amazonaws.com/TSM17P-3AG_RevB.zip"
+      },
+      {
+        "label": "StepSERVO Tuning Guide_962-0002A.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/StepSERVO-Tuning-Guide_962-0002A.pdf"
+      }
+    ]
+  },
+  {
+    "id": "01t5i000000xzsTAAQ",
+    "name": "TSM17Q-3RG NEMA 17 Integrated StepSERVO Motor w/ Q Programming & Modbus/RTU",
+    "sku": "TSM17Q-3RG",
+    "stock": "186",
+    "unit_price": 605,
+    "includedItems": [
+      "TSM17Q-3RG integrated motor",
+      "Mating power connector (2-pin)"
+    ],
+    "features": [
+      "StepSERVO™ technology featuring space vector current control",
+      "NEMA 17 frame size",
+      "Q programming control mode for stand-alone operation",
+      "Modbus/RTU for easy PLC and HMI communication",
+      "SERVO \"Boost\" torque of 25-50% higher than holding torque",
+      "RS-485 port for programming and communications",
+      "Built-in 20,000 count/rev encoder for closed-loop control"
+    ],
+    "description": "The TSM17Q-3RG integrated StepSERVO is a drive+motor unit, fusing a NEMA 17 step motor and a servo drive into a single device. Power to the drive, located at the rear of the motor, must be supplied by an external DC supply. See Related and Recommended Products below for compatible 24 and 48 volt DC power supplies. <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> StepSERVOtechnology combines the high torque capabilities of a step motor with the closed loop dynamic control of a servo system. The result is a highly customizable all-in-one motion control solution that operates quietly and efficiently, requiring only the minimum amount of current to maintain commanded position and velocity. Boost torque of 25-50% higher than rated holding torque increases the limits of acceleration, leading to faster cycle times. StepSERVOintegrated motors can be applied in systems where a traditional stepper motor would not be capable of achieving the high accuracy required.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> The TSM17Q-3RG integrated StepSERVOcan be operated in several different control modes, including Streaming Command mode using either SCL or Modbus/RTU, Pulse &amp; Direction mode, and Velocity mode, plus it has the ability to run a Q program stored in non-volatile memory. Q programs are created using Applied Motion's Q Programmer software, which provides powerful commands for motion, I/O, conditional processing, multi-tasking, math functions, and more. All TSM17 units are setup, configured and tuned using Applied Motion's Step-Servo Quick Tuner software with built in Q Programmer<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> Each TSM17 integrated stepper comes with 8 digital inputs, 4 digital output, and 1 analog input. The digital inputs accept signals of 5-24 VDC and can be used for connecting pulse &amp; direction signals, end-of-travel limit switches, jog switches, quadrature encoder signals, PLC outputs, sensors, or many other signal types. The digital outputs can be connected to PLC inputs, counters, lights, relays, or other devices. The analog input accepts 0-5 VDC signals and can be used for velocity and position control.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> The TSM17Q-3RG comes with an RS-485 port for programming and serial communications to allow for the use either Modbus/RTU or Applied Motion's Streaming Command Language (SCL). An integral 5000-line (20,000 count/rev) incremental encoder is housed inside the same enclosure as the drive electronics and used for closed-loop servo control to attain highly accurate position and velocity control. Encoder counts can be accessed over the network or from within the Q program using SCL registers.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">NOT included:</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">DC power supply (required), see Power Supplies below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Additional accessories available below</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">",
+    "specs": [
+      {
+        "key": "Supply Voltage",
+        "value": "12-48 VDC"
+      },
+      {
+        "key": "Supply Voltage Type",
+        "value": "DC"
+      },
+      {
+        "key": "Current Draw from Power Supply",
+        "value": "1.35 A max"
+      },
+      {
+        "key": "Control Modes",
+        "value": "Modbus RTU"
+      },
+      {
+        "key": "Encoder Feedback",
+        "value": "Yes"
+      },
+      {
+        "key": "Encoder Resolution",
+        "value": "5,000 lines (20,000 counts quadrature)"
+      },
+      {
+        "key": "Setup Method",
+        "value": "Software setup"
+      },
+      {
+        "key": "Digital Inputs",
+        "value": "8"
+      },
+      {
+        "key": "Digital Outputs",
+        "value": "4"
+      },
+      {
+        "key": "Analog Inputs",
+        "value": "1 single-ended"
+      },
+      {
+        "key": "Circuit Protection",
+        "value": "Short circuit, Over-voltage, Under-voltage, Over-temp"
+      },
+      {
+        "key": "Status LEDs",
+        "value": "1 red, 1 green"
+      },
+      {
+        "key": "Frame Size",
+        "value": "NEMA 17"
+      },
+      {
+        "key": "Holding Torque",
+        "value": "73 oz-in"
+      },
+      {
+        "key": "Max. Boost Torque",
+        "value": "96.3 oz-in"
+      },
+      {
+        "key": "Step Angle",
+        "value": "1.8 deg"
+      },
+      {
+        "key": "Rotor Inertia",
+        "value": "81.91 g-cm^2"
+      },
+      {
+        "key": "Length",
+        "value": "83.31 mm"
+      },
+      {
+        "key": "Weight",
+        "value": "0.44 kg"
+      },
+      {
+        "key": "Operating Temperature Range",
+        "value": "0 to 40 °C"
+      },
+      {
+        "key": "Ambient Temperature Range",
+        "value": "0 to 85 °C"
+      },
+      {
+        "key": "Ambient Humidity",
+        "value": "90% max, non-condensing"
+      },
+      {
+        "key": "Insulation Class",
+        "value": "Class B (130°C)"
+      },
+      {
+        "key": "Shaft Diameter",
+        "value": "6 mm"
+      },
+      {
+        "key": "Maximum Radial Load",
+        "value": "10 lbs"
+      },
+      {
+        "key": "Maximum Thrust Load",
+        "value": "Less than 1 lbs"
+      },
+      {
+        "key": "Communication Protocols",
+        "value": "RS-485"
+      }
+    ],
+    "files": [
+      {
+        "label": "Sample Code: scldemo.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Sample-Code/scldemo.zip"
+      },
+      {
+        "label": "SCL Utility",
+        "url": "https://www.applied-motion.com/s/software/scl-utility"
+      },
+      {
+        "label": "Host-Command-Reference_920-0002W.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/Host-Command-Reference_920-0002W_0.pdf"
+      },
+      {
+        "label": "920-0077B_TSM17S-Q_QuickSetup_RevB.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/920-0077B_TSM17S-Q_QuickSetup_RevB.pdf"
+      },
+      {
+        "label": "920-0084_RevE_TSM17S-Q_Hardware_Manual_Interactive.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Manuals/920-0084_RevE_TSM17S-Q_Hardware_Manual_Interactive.pdf"
+      },
+      {
+        "label": "TSM17Q-3RG_RevB.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/TSM17Q-3RG_RevB.pdf"
+      },
+      {
+        "label": "TSM17Q-3RG_RevB.zip",
+        "url": "https://appliedmotion.s3.amazonaws.com/TSM17Q-3RG_RevB.zip"
+      },
+      {
+        "label": "StepSERVO Tuning Guide_962-0002A.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/StepSERVO-Tuning-Guide_962-0002A.pdf"
+      },
+      {
+        "label": "APPN0040A_Hard-Stop_Homing_StepSERVO-SV200.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/APPN0040A_Hard-Stop_Homing_StepSERVO-SV200.pdf"
+      },
+      {
+        "label": "APPN0034B-ModbusRTU-from-Proface-HMI-with-Q.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/APPN0034B-ModbusRTU-from-Proface-HMI-with-Q.zip"
+      }
+    ]
+  },
+  {
+    "id": "01t5i000000xzsWAAQ",
+    "name": "TSM23X3B-R NEMA 23 StepSERVO Integrated Motor with TruCount Encoder , RS-485",
+    "sku": "TSM23X3B-R",
+    "stock": "10",
+    "unit_price": 755,
+    "includedItems": [
+      "TSM23X3B-R Motor",
+      "Mating connectors"
+    ],
+    "features": [
+      "TruCount multi-turn, absolute encoder technology",
+      "20,000 counts/turn single-turn; 65,536 turns multi-turn",
+      "StepSERVO technology featuring space vector current control",
+      "Boost torque for faster acceleration",
+      "NEMA 23 frame size",
+      "Position, velocity, and torque control modes",
+      "Supports Serial Command Language (SCL)",
+      "Dual-port communications on all models",
+      "Q programming for stand-alone operation"
+    ],
+    "description": "The TSM23x3B StepSERVO Integrated Motor is a drive+encoder+motor unit, fusing a NEMA 23 step motor and a servo drive into a single device. Power to the drive, located at the rear of the motor, must be supplied by an external DC supply. See Recommended Products below for compatible 48 volt DC power supplies.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">StepSERVO Closed-Loop Stepper Technology</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> StepSERVOtechnology combines the high torque capabilities of a step motor with the closed loop dynamic control of a servo system. The result is a highly configurable all-in-one motion control solution that operates quietly and efficiently, requiring only the minimum amount of current to maintain commanded position and velocity. Boost (or peak) torque that is higher than the rated holding torque increases the limits of acceleration, leading to faster cycle times. StepSERVOintegrated motors can be applied in systems where a traditional stepper motor would not be capable of achieving the high accuracy required.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">TruCount Multi-Turn Absolute Encoder Technology</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> TruCount absolute encoders provide the ultimate in hassle-free positioning of rotary and linear axes. TruCountencoders are multi-turn, absolute encoders that don't require batteries or external power to track encoder position while the motor is powered off. There are no mechanical gears in TruCountencoders. The encoders make use of a novel energy harvesting technique that continues to track motor position when the motor is powered off. Any amount of displacement in the shaft causes enough energy to be created for the motor to continue tracking its absolute position. It is an extremely effective approach to multi-turn, absolute position tracking. Utilizing multi-turn, absolute encoders in motion control applications reduces downtime by shortening machine power up sequences and eliminates the need for homing runs after power cycles and emergency stops (e-stops).<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Models Available</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> Part No. Communications Description <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> TSM23x3B-IP Ethernet <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Dual Ethernet ports for configuration, programming, and networking connections.</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Stream commands from a host controller to multiple axes using Applied Motion's Serial Command Language (SCL).</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Built-in support for EtherNet/IP and Modbus TCP industrial networking protocols.</li></ul> TSM23x3B-R RS-485 <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Dual RS-485 ports for configuration, programming, and networking connections.</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Stream commands from a host controller to as many as 32 axes using Applied Motion's Serial Command Language (SCL).</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Built-in support for Modbus RTU industrial networking protocol.</li></ul> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">What's in the Box</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">TSM23x3B-IP</strong> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Included</strong> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">TSM23x3B-IP Motor</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Mating connectors</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Screwdriver</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Quick Setup Guide (also available in Downloads)</li></ul> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">NOT included</strong> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">DC power supply (required), see accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">3004-398 I/O cable (optional), see accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Regen clamp (optional), see accessories below</li></ul> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">TSM23x3B-R</strong> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Included</strong> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">TSM23x3B-R Motor</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Mating connectors</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">3004-310-1M RS-485 cable (for details see Accessories below)</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">3004-313-1M RS-485/CANopen cable (for details see Accessories below)</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Screwdriver</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Quick Setup Guide (also available in Downloads)</li></ul> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">NOT included</strong> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">DC power supply (required), see accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">3004-318 I/O cable (optional), see accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Regen clamp (optional), see accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">USB to RS485 serial adapter (optional), see accessories below</li></ul>  <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">UL Recognized</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">This integrated StepSERVO motor is UL Recognized in the US and Canada, file no. E515393.</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">",
+    "specs": [
+      {
+        "key": "Supply Voltage",
+        "value": "12-70 VDC"
+      },
+      {
+        "key": "Supply Voltage Type",
+        "value": "DC"
+      },
+      {
+        "key": "Current Draw from Power Supply",
+        "value": "3.1 A max"
+      },
+      {
+        "key": "Control Modes",
+        "value": "Analog Torque / Velocity"
+      },
+      {
+        "key": "Encoder Feedback",
+        "value": "Yes"
+      },
+      {
+        "key": "Setup Method",
+        "value": "Software setup"
+      },
+      {
+        "key": "Digital Inputs",
+        "value": "6"
+      },
+      {
+        "key": "Digital Outputs",
+        "value": "3"
+      },
+      {
+        "key": "Analog Inputs",
+        "value": "1 single-ended"
+      },
+      {
+        "key": "Circuit Protection",
+        "value": "Short circuit, Over-voltage, Under-voltage, Over-temp"
+      },
+      {
+        "key": "Status LEDs",
+        "value": "1 red, 1 green"
+      },
+      {
+        "key": "Frame Size",
+        "value": "NEMA 23"
+      },
+      {
+        "key": "Holding Torque",
+        "value": "1.497 N-m"
+      },
+      {
+        "key": "Max. Boost Torque",
+        "value": "295 oz-in"
+      },
+      {
+        "key": "Step Angle",
+        "value": "1.8 deg"
+      },
+      {
+        "key": "Rotor Inertia",
+        "value": "459.71 g-cm^2"
+      },
+      {
+        "key": "Length",
+        "value": "133.6 mm"
+      },
+      {
+        "key": "Weight",
+        "value": "1.2 kg"
+      },
+      {
+        "key": "Operating Temperature Range",
+        "value": "0 to 40 °C"
+      },
+      {
+        "key": "Ambient Temperature Range",
+        "value": "0 to 85 °C"
+      },
+      {
+        "key": "Ambient Humidity",
+        "value": "90% max, non-condensing"
+      },
+      {
+        "key": "Insulation Class",
+        "value": "Class B (130°C)"
+      },
+      {
+        "key": "Shaft Diameter",
+        "value": "8 mm"
+      },
+      {
+        "key": "Maximum Radial Load",
+        "value": "17 lbs"
+      },
+      {
+        "key": "Maximum Thrust Load",
+        "value": "2.5 lbs"
+      },
+      {
+        "key": "Category Series",
+        "value": "TruCount Absolute Encoders"
+      },
+      {
+        "key": "Communication Protocols",
+        "value": "RS-485"
+      }
+    ],
+    "files": [
+      {
+        "label": "Sample Code: scldemo.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Sample-Code/scldemo.zip"
+      },
+      {
+        "label": "Host-Command-Reference_920-0002W.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/Host-Command-Reference_920-0002W_0.pdf"
+      },
+      {
+        "label": "920-0154_RevD_TSM23XB-R_Hardware Manual_Interactive.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Manuals/920-0154_RevD_TSM23XB-R_Hardware%20Manual_Interactive.pdf"
+      },
+      {
+        "label": "TSM23X3B-x_RevA.PDF",
+        "url": "https://appliedmotion.s3.amazonaws.com/TSM23X3B-x_RevA.PDF"
+      },
+      {
+        "label": "TSM23X3B-x_RevA.zip",
+        "url": "https://appliedmotion.s3.amazonaws.com/TSM23X3B-x_RevA.zip"
+      }
+    ]
+  },
+  {
+    "id": "01t5i000000y1ePAAQ",
+    "name": "TSM34IP-3DG NEMA 34 StepSERVO Integrated Motor w/ EtherNet/IP",
+    "sku": "TSM34IP-3DG",
+    "stock": "6",
+    "unit_price": 1039,
+    "includedItems": [
+      "TSM34IP-3DG integrated motor",
+      "Mating power connector (4-pin)"
+    ],
+    "features": [
+      "StepSERVO technology featuring space vector current control",
+      "Peak torques for greater acceleration and throughput",
+      "Higher efficiency, lower power consumption than open loop steppers",
+      "Hi-resolution 20,000 count encoder for closed-loop control",
+      "NEMA 34 frame size",
+      "Q programming control mode for stand-alone operation",
+      "Dual-port Ethernet with RJ45 connectors",
+      "UDP, TCP/IP, and Modbus TCP for easy PLC and HMI communication",
+      "EtherNet/IP support for easy PLC and HMI communication"
+    ],
+    "description": "The TSM34IP-3DG StepSERVOintegrated motor is a drive+motor unit, fusing a NEMA 34 step motor and a servo drive into a single device. Power to the drive, located at the rear of the motor, must be supplied by an external DC supply. See Related and Recommended Products below for compatible 24 and 48 volt DC power supplies. <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> StepSERVOtechnology combines the high torque capabilities of a step motor with the closed loop dynamic control of a servo system. The result is a highly customizable all-in-one motion control solution that operates quietly and efficiently, requiring only the minimum amount of current to maintain commanded position and velocity. Boost (or peak) torque that is higher than the rated holding torque increases the limits of acceleration, leading to faster cycle times. StepSERVOintegrated motors can be applied in systems where a traditional stepper motor would not be capable of achieving the high accuracy required.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> The TSM34IP-3DG integrated StepSERVOincorporates EtherNet/IP network communications, the widely used industrial protocol for manufacturing automation applications. Implicit (Class 1) and explicit (Class 3) messaging are supported. With EtherNet/IP users can control, configure and query the drive using an open, standards-based, industrial Ethernet connection at speeds up to 100 MBits/sec. All drive+motor features can be accessed over EtherNet/IP, including more than 100 commands and 130 registers for controlling motion, I/O, configuration, polling, math, register manipulation, and Q programming. This integrated StepSERVOcan be operated in several different control modes, including Streaming Command mode using either SCL, Pulse &amp; Direction mode, and Velocity mode, plus it has the ability to run a Q program stored in non-volatile memory. Q programs are created using Applied Motion's Q Programmer software, which provides powerful commands for motion, I/O, conditional processing, multi-tasking, math functions, and more. All TSM34 units are setup, configured and tuned using Applied Motion's <a target=\"_blank\" href=\"https://www.applied-motion.com/s/products/software/step-servo-quick-tuner\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Step-Servo Quick Tuner</a> software with built in Q Programmer<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> Each TSM34 integrated motor comes with 8 digital inputs, 4 digital outputs, and 1 analog input. The digital inputs accept signals of 5-24 VDC and can be used for connecting pulse &amp; direction signals, end-of-travel limit switches, jog switches, quadrature encoder signals, PLC outputs, sensors, or many other signal types. The digital output can be connected to PLC inputs, counters, lights, relays, or other devices. The analog input accepts 0-5 VDC signals and can be used for velocity and position control.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> The TSM34IP-3DG comes with a fast 10/100 MBit Ethernet port for programming and EtherNet/IP communications. The same port also supports TCP and UDP protocols for sending commands from Applied Motion's proprietary serial command language (SCL). As well as the popular Modbus/TCP protocol.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">NOT included:</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">DC power supply (required), see Power Supplies below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Regen clamp (optional), see Accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Additional accessories available below</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">UL Recognized</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">This integrated StepSERVO motor is UL Recognized in the US and Canada, file no. E515393.</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">",
+    "specs": [
+      {
+        "key": "Supply Voltage",
+        "value": "24-70 VDC"
+      },
+      {
+        "key": "Supply Voltage Type",
+        "value": "DC"
+      },
+      {
+        "key": "Current Draw from Power Supply",
+        "value": "6.1 A max"
+      },
+      {
+        "key": "Control Modes",
+        "value": "Modbus TCP"
+      },
+      {
+        "key": "Encoder Feedback",
+        "value": "Yes"
+      },
+      {
+        "key": "Encoder Resolution",
+        "value": "5,000 lines (20,000 counts quadrature)"
+      },
+      {
+        "key": "Setup Method",
+        "value": "Software setup"
+      },
+      {
+        "key": "Digital Inputs",
+        "value": "8"
+      },
+      {
+        "key": "Digital Outputs",
+        "value": "4"
+      },
+      {
+        "key": "Analog Inputs",
+        "value": "1 single-ended"
+      },
+      {
+        "key": "Circuit Protection",
+        "value": "Short circuit, Over-voltage, Under-voltage, Over-temp"
+      },
+      {
+        "key": "Status LEDs",
+        "value": "1 red, 1 green"
+      },
+      {
+        "key": "Frame Size",
+        "value": "NEMA 34"
+      },
+      {
+        "key": "Holding Torque",
+        "value": "736 oz-in"
+      },
+      {
+        "key": "Max. Boost Torque",
+        "value": "814 oz-in"
+      },
+      {
+        "key": "Step Angle",
+        "value": "1.8 deg"
+      },
+      {
+        "key": "Rotor Inertia",
+        "value": "1482.92 g-cm^2"
+      },
+      {
+        "key": "Length",
+        "value": "143 mm"
+      },
+      {
+        "key": "Weight",
+        "value": "3.2 kg"
+      },
+      {
+        "key": "Operating Temperature Range",
+        "value": "0 to 40 °C"
+      },
+      {
+        "key": "Ambient Temperature Range",
+        "value": "0 to 85 °C"
+      },
+      {
+        "key": "Ambient Humidity",
+        "value": "90% max, non-condensing"
+      },
+      {
+        "key": "Insulation Class",
+        "value": "Class B (130°C)"
+      },
+      {
+        "key": "Shaft Diameter",
+        "value": "14 mm"
+      },
+      {
+        "key": "Communication Protocols",
+        "value": "Ethernet"
+      }
+    ],
+    "files": [
+      {
+        "label": "Sample Code: scldemo.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Sample-Code/scldemo.zip"
+      },
+      {
+        "label": "SCL Utility",
+        "url": "https://www.applied-motion.com/s/software/scl-utility"
+      },
+      {
+        "label": "Step-Servo Quick Tuner",
+        "url": "https://www.applied-motion.com/s/software/step-servo-quick-tuner"
+      },
+      {
+        "label": "TSM34IP-r3.03.eds",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Datasheets/TSM34IP-r3.03.eds"
+      },
+      {
+        "label": "Host-Command-Reference_920-0002W.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/Host-Command-Reference_920-0002W_0.pdf"
+      },
+      {
+        "label": "TSM34Q-C-IP_Quick Set-up guide_EN-AMP_920-0112C.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/TSM34Q-C-IP_Quick%20Set-up%20guide_EN-AMP_920-0112C.pdf"
+      },
+      {
+        "label": "TSM34Q-C-IP_Hardware_Manual_920-0110B.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Manuals/TSM34Q-C-IP_Hardware_Manual_920-0110B.pdf"
+      },
+      {
+        "label": "TSM34IP-3DG_RevA.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/2D-Drawing/TSM34IP-3DG_RevA.pdf"
+      },
+      {
+        "label": "TSM34x-3DG-3D.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/3D-Model/TSM34x-3DG-3D.zip"
+      },
+      {
+        "label": "StepSERVO Tuning Guide_962-0002A.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/StepSERVO-Tuning-Guide_962-0002A.pdf"
+      },
+      {
+        "label": "APPN0019_Analog-positioning-using-Q-program.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/APPN0019_Analog-positioning-using-Q-program.zip"
+      },
+      {
+        "label": "APPN0020-Maple-Systems-with-Ethernet-Drive.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/APPN0020-Maple-Systems-with-Ethernet-Drive.zip"
+      }
+    ]
+  },
+  {
+    "id": "01t5i000000xz7wAAA",
+    "name": "TSM34IP-6DG NEMA 34 StepSERVO Integrated Motor w/ EtherNet/IP",
+    "sku": "TSM34IP-6DG",
+    "stock": "26",
+    "unit_price": 1268,
+    "includedItems": [
+      "TSM34IP-6DG integrated motor",
+      "Mating power connector (4-pin)"
+    ],
+    "features": [
+      "StepSERVO technology featuring space vector current control",
+      "Peak torques for greater acceleration and throughput",
+      "Higher efficiency, lower power consumption than open loop steppers",
+      "Hi-resolution 20,000 count encoder for closed-loop control",
+      "NEMA 34 frame size",
+      "Q programming control mode for stand-alone operation",
+      "Dual-port Ethernet with RJ45 connectors",
+      "EtherNet/IP support for easy PLC and HMI communication",
+      "UDP, TCP/IP, and Modbus TCP for easy PLC and HMI communication"
+    ],
+    "description": "The TSM34Q-6DG StepSERVOintegrated motor is a drive+motor unit, fusing a NEMA 34 step motor and a servo drive into a single device. Power to the drive, located at the rear of the motor, must be supplied by an external DC supply. See Related and Recommended Products below for compatible 48 volt DC power supplies. <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> StepSERVOtechnology combines the high torque capabilities of a step motor with the closed loop dynamic control of a servo system. The result is a highly customizable all-in-one motion control solution that operates quietly and efficiently, requiring only the minimum amount of current to maintain commanded position and velocity. Boost (or peak) torque that is higher than the rated holding torque increases the limits of acceleration, leading to faster cycle times. StepSERVOintegrated motors can be applied in systems where a traditional stepper motor would not be capable of achieving the high accuracy required.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> The TSM34IP-6DG integrated StepSERVOincorporates EtherNet/IP network communications, the widely used industrial protocol for manufacturing automation applications. Implicit (Class 1) and explicit (Class 3) messaging are supported. With EtherNet/IP users can control, configure and query the drive using an open, standards-based, industrial Ethernet connection at speeds up to 100 MBits/sec. All drive+motor features can be accessed over EtherNet/IP, including more than 100 commands and 130 registers for controlling motion, I/O, configuration, polling, math, register manipulation, and Q programming. This integrated StepSERVOcan be operated in several different control modes, including Streaming Command mode using either SCL, Pulse &amp; Direction mode, and Velocity mode, plus it has the ability to run a Q program stored in non-volatile memory. Q programs are created using Applied Motion's Q Programmer software, which provides powerful commands for motion, I/O, conditional processing, multi-tasking, math functions, and more. All TSM34 units are setup, configured and tuned using Applied Motion's <a target=\"_blank\" href=\"https://www.applied-motion.com/s/products/software/step-servo-quick-tuner\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Step-Servo Quick Tuner</a> software with built in Q Programmer<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> Each TSM34 integrated motor comes with 8 digital inputs, 4 digital outputs, and 1 analog input. The digital inputs accept signals of 5-24 VDC and can be used for connecting pulse &amp; direction signals, end-of-travel limit switches, jog switches, quadrature encoder signals, PLC outputs, sensors, or many other signal types. The digital output can be connected to PLC inputs, counters, lights, relays, or other devices. The analog input accepts 0-5 VDC signals and can be used for velocity and position control.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> The TSM34IP-6DG comes with a fast 10/100 MBit Ethernet port for programming and EtherNet/IP communications. The same port also supports TCP and UDP protocols for sending commands from Applied Motion's proprietary serial command language (SCL).As well as the popular Modbus/TCP protocol.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">NOT included:</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">DC power supply (required), see Power Supplies below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Regen clamp (optional), see Accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Additional accessories available below</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">UL Recognized</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">This integrated StepSERVO motor is UL Recognized in the US and Canada, file no. E515393.</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">",
+    "specs": [
+      {
+        "key": "Supply Voltage",
+        "value": "48-70 VDC"
+      },
+      {
+        "key": "Supply Voltage Type",
+        "value": "DC"
+      },
+      {
+        "key": "Current Draw from Power Supply",
+        "value": "8 A max"
+      },
+      {
+        "key": "Control Modes",
+        "value": "Modbus TCP"
+      },
+      {
+        "key": "Encoder Feedback",
+        "value": "Yes"
+      },
+      {
+        "key": "Encoder Resolution",
+        "value": "5,000 lines (20,000 counts quadrature)"
+      },
+      {
+        "key": "Setup Method",
+        "value": "Software setup"
+      },
+      {
+        "key": "Digital Inputs",
+        "value": "8"
+      },
+      {
+        "key": "Digital Outputs",
+        "value": "4"
+      },
+      {
+        "key": "Analog Inputs",
+        "value": "1 single-ended"
+      },
+      {
+        "key": "Circuit Protection",
+        "value": "Short circuit, Over-voltage, Under-voltage, Over-temp"
+      },
+      {
+        "key": "Status LEDs",
+        "value": "1 red, 1 green"
+      },
+      {
+        "key": "Frame Size",
+        "value": "NEMA 34"
+      },
+      {
+        "key": "Holding Torque",
+        "value": "1161 oz-in"
+      },
+      {
+        "key": "Max. Boost Torque",
+        "value": "1338 oz-in"
+      },
+      {
+        "key": "Step Angle",
+        "value": "1.8 deg"
+      },
+      {
+        "key": "Rotor Inertia",
+        "value": "3657.88 g-cm^2"
+      },
+      {
+        "key": "Length",
+        "value": "203.2 mm"
+      },
+      {
+        "key": "Weight",
+        "value": "5.5 kg"
+      },
+      {
+        "key": "Operating Temperature Range",
+        "value": "0 to 40 °C"
+      },
+      {
+        "key": "Ambient Temperature Range",
+        "value": "0 to 85 °C"
+      },
+      {
+        "key": "Ambient Humidity",
+        "value": "90% max, non-condensing"
+      },
+      {
+        "key": "Insulation Class",
+        "value": "Class B (130°C)"
+      },
+      {
+        "key": "Shaft Diameter",
+        "value": "14 mm"
+      },
+      {
+        "key": "Communication Protocols",
+        "value": "Ethernet"
+      }
+    ],
+    "files": [
+      {
+        "label": "Sample Code: scldemo.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Sample-Code/scldemo.zip"
+      },
+      {
+        "label": "SCL Utility",
+        "url": "https://www.applied-motion.com/s/software/scl-utility"
+      },
+      {
+        "label": "Step-Servo Quick Tuner",
+        "url": "https://www.applied-motion.com/s/software/step-servo-quick-tuner"
+      },
+      {
+        "label": "TSM34IP-r3.03.eds",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Datasheets/TSM34IP-r3.03.eds"
+      },
+      {
+        "label": "Host-Command-Reference_920-0002W.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/Host-Command-Reference_920-0002W_0.pdf"
+      },
+      {
+        "label": "TSM34Q-C-IP_Quick Set-up guide_EN-AMP_920-0112C.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/TSM34Q-C-IP_Quick%20Set-up%20guide_EN-AMP_920-0112C.pdf"
+      },
+      {
+        "label": "TSM34Q-C-IP_Hardware_Manual_920-0110B.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Manuals/TSM34Q-C-IP_Hardware_Manual_920-0110B.pdf"
+      },
+      {
+        "label": "TSM34IP-6DG_RevA.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/2D-Drawing/TSM34IP-6DG_RevA.pdf"
+      },
+      {
+        "label": "TSM34x-6DG-3D.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/3D-Model/TSM34x-6DG-3D.zip"
+      },
+      {
+        "label": "StepSERVO Tuning Guide_962-0002A.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/StepSERVO-Tuning-Guide_962-0002A.pdf"
+      },
+      {
+        "label": "APPN0019_Analog-positioning-using-Q-program.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/APPN0019_Analog-positioning-using-Q-program.zip"
+      },
+      {
+        "label": "APPN0020-Maple-Systems-with-Ethernet-Drive.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/APPN0020-Maple-Systems-with-Ethernet-Drive.zip"
+      }
+    ]
+  },
+  {
+    "id": "01t5i000000xyz8AAA",
+    "name": "TSM34Q-3RG NEMA 34 StepSERVO Integrated Motor w/ Q Programming and Modbus RTU",
+    "sku": "TSM34Q-3RG",
+    "stock": "10",
+    "unit_price": 894,
+    "includedItems": [
+      "TSM34Q-3RG integrated motor",
+      "Mating power connector (4-pin)"
+    ],
+    "features": [
+      "StepSERVO technology featuring space vector current control",
+      "Peak torques for greater acceleration and throughput",
+      "Higher efficiency, lower power consumption than open loop steppers",
+      "Hi-resolution 20,000 count encoder for closed-loop control",
+      "NEMA 34 frame size",
+      "Q programming control mode for stand-alone operation",
+      "RS-485 port for programming and communications",
+      "Modbus RTU for easy PLC and HMI communication"
+    ],
+    "description": "The TSM34Q-3RG StepSERVOintegrated motor is a drive+motor unit, fusing a NEMA 34 step motor and a servo drive into a single device. Power to the drive, located at the rear of the motor, must be supplied by an external DC supply. See Related and Recommended Products below for compatible 24 and 48 volt DC power supplies. <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> StepSERVOtechnology combines the high torque capabilities of a step motor with the closed loop dynamic control of a servo system. The result is a highly customizable all-in-one motion control solution that operates quietly and efficiently, requiring only the minimum amount of current to maintain commanded position and velocity. Boost (or peak) torque that is higher than the rated holding torque increases the limits of acceleration, leading to faster cycle times. StepSERVOintegrated motors can be applied in systems where a traditional stepper motor would not be capable of achieving the high accuracy required.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> The TSM34Q-3RG StepSERVOintegrated motor can be operated in several different control modes, including streaming command mode using SCL commands or Modbus RTU, pulse &amp; direction mode, velocity mode, and stored program mode which offers the ability to run a Q program stored in non-volatile memory. Q programs are created using Applied Motion's Q Programmer software, which provides powerful commands for motion, I/O, conditional processing, multi-tasking, math functions, and more. All TSM34 integrated motors are set up, configured and tuned using Applied Motion's <a target=\"_blank\" href=\"https://www.applied-motion.com/s/products/software/step-servo-quick-tuner\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Step-Servo Quick Tuner</a> software with built in Q Programmer<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> Each TSM34 integrated motor comes with 8 digital inputs, 4 digital outputs, and 1 analog input. The digital inputs accept signals of 5-24 VDC and can be used for connecting pulse &amp; direction signals, end-of-travel limit switches, jog switches, quadrature encoder signals, PLC outputs, sensors, or many other signal types. The digital outputs can be connected to PLC inputs, counters, lights, relays, or other devices. The analog input accepts 0-5 VDC signals and can be used for velocity and position control.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> The TSM34Q-3RG comes with an RS-485 port for programming and serial communications to allow for the use of either Modbus RTU or Applied Motion's Streaming Command Language (SCL). An integral 5000-line (20,000 count/rev) incremental encoder is housed inside the same enclosure as the drive electronics and used for closed-loop servo control to attain highly accurate position and velocity control. Encoder counts can be accessed over the network or from within the Q program using data registers.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">NOT included:</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">DC power supply (required), see Power Supplies below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Regen clamp (optional), see Accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Additional accessories available below</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">UL Recognized</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">This integrated StepSERVO motor is UL Recognized in the US and Canada, file no. E515393.</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">",
+    "specs": [
+      {
+        "key": "Supply Voltage",
+        "value": "24-70 VDC"
+      },
+      {
+        "key": "Supply Voltage Type",
+        "value": "DC"
+      },
+      {
+        "key": "Current Draw from Power Supply",
+        "value": "6.1 A max"
+      },
+      {
+        "key": "Control Modes",
+        "value": "Modbus RTU"
+      },
+      {
+        "key": "Encoder Feedback",
+        "value": "Yes"
+      },
+      {
+        "key": "Encoder Resolution",
+        "value": "5,000 lines (20,000 counts quadrature)"
+      },
+      {
+        "key": "Setup Method",
+        "value": "Software setup"
+      },
+      {
+        "key": "Digital Inputs",
+        "value": "8"
+      },
+      {
+        "key": "Digital Outputs",
+        "value": "4"
+      },
+      {
+        "key": "Analog Inputs",
+        "value": "1 single-ended"
+      },
+      {
+        "key": "Circuit Protection",
+        "value": "Short circuit, Over-voltage, Under-voltage, Over-temp"
+      },
+      {
+        "key": "Status LEDs",
+        "value": "1 red, 1 green"
+      },
+      {
+        "key": "Frame Size",
+        "value": "NEMA 34"
+      },
+      {
+        "key": "Holding Torque",
+        "value": "736 oz-in"
+      },
+      {
+        "key": "Max. Boost Torque",
+        "value": "814 oz-in"
+      },
+      {
+        "key": "Step Angle",
+        "value": "1.8 deg"
+      },
+      {
+        "key": "Rotor Inertia",
+        "value": "1482.92 g-cm^2"
+      },
+      {
+        "key": "Length",
+        "value": "143 mm"
+      },
+      {
+        "key": "Weight",
+        "value": "3.2 kg"
+      },
+      {
+        "key": "Operating Temperature Range",
+        "value": "0 to 40 °C"
+      },
+      {
+        "key": "Ambient Temperature Range",
+        "value": "0 to 85 °C"
+      },
+      {
+        "key": "Ambient Humidity",
+        "value": "90% max, non-condensing"
+      },
+      {
+        "key": "Insulation Class",
+        "value": "Class B (130°C)"
+      },
+      {
+        "key": "Shaft Diameter",
+        "value": "14 mm"
+      },
+      {
+        "key": "Communication Protocols",
+        "value": "RS-485"
+      }
+    ],
+    "files": [
+      {
+        "label": "Sample Code: scldemo.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Sample-Code/scldemo.zip"
+      },
+      {
+        "label": "SCL Utility",
+        "url": "https://www.applied-motion.com/s/software/scl-utility"
+      },
+      {
+        "label": "Step-Servo Quick Tuner",
+        "url": "https://www.applied-motion.com/s/software/step-servo-quick-tuner"
+      },
+      {
+        "label": "Host-Command-Reference_920-0002W.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/Host-Command-Reference_920-0002W_0.pdf"
+      },
+      {
+        "label": "TSM34Q-C-IP_Quick Set-up guide_EN-AMP_920-0112C.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/TSM34Q-C-IP_Quick%20Set-up%20guide_EN-AMP_920-0112C.pdf"
+      },
+      {
+        "label": "TSM34Q-C-IP_Hardware_Manual_920-0110B.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Manuals/TSM34Q-C-IP_Hardware_Manual_920-0110B_0.pdf"
+      },
+      {
+        "label": "TSM34Q-3RG_RevA.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/2D-Drawing/TSM34Q-3RG_RevA.pdf"
+      },
+      {
+        "label": "TSM34x-3RG-3CG-3D.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/3D-Model/TSM34x-3RG-3CG-3D.zip"
+      },
+      {
+        "label": "StepSERVO Tuning Guide_962-0002A.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/StepSERVO-Tuning-Guide_962-0002A.pdf"
+      },
+      {
+        "label": "APPN0040A_Hard-Stop_Homing_StepSERVO-SV200.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/APPN0040A_Hard-Stop_Homing_StepSERVO-SV200.pdf"
+      },
+      {
+        "label": "APPN0034B-ModbusRTU-from-Proface-HMI-with-Q.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/APPN0034B-ModbusRTU-from-Proface-HMI-with-Q.zip"
+      }
+    ]
+  },
+  {
+    "id": "01t5i000000y00LAAQ",
+    "name": "TSM34Q-6RG NEMA 34 StepSERVO Integrated Motor w/ Q Programming and Modbus RTU",
+    "sku": "TSM34Q-6RG",
+    "stock": "10",
+    "unit_price": 1124,
+    "includedItems": [
+      "TSM34Q-6RG integrated motor",
+      "Mating power connector (4-pin)"
+    ],
+    "features": [
+      "StepSERVO technology featuring space vector current control",
+      "Peak torques for greater acceleration and throughput",
+      "Higher efficiency, lower power consumption than open loop steppers",
+      "Hi-resolution 20,000 count encoder for closed-loop control",
+      "NEMA 34 frame size",
+      "Q programming control mode for stand-alone operation",
+      "RS-485 port for programming and communications",
+      "Modbus RTU for easy PLC and HMI communication"
+    ],
+    "description": "The TSM34Q-6RG StepSERVOintegrated motor is a drive+motor unit, fusing a NEMA 34 step motor and a servo drive into a single device. Power to the drive, located at the rear of the motor, must be supplied by an external DC supply. See Related and Recommended Products below for compatible 48 volt DC power supplies. <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> StepSERVOtechnology combines the high torque capabilities of a step motor with the closed loop dynamic control of a servo system. The result is a highly customizable all-in-one motion control solution that operates quietly and efficiently, requiring only the minimum amount of current to maintain commanded position and velocity. Boost (or peak) torque that is higher than the rated holding torque increases the limits of acceleration, leading to faster cycle times. With software selectable servo loops that have been pre-tuned for various inertial loads, the TSM StepSERVOcan be applied in systems where a traditional stepper would not be capable of achieving the high accuracy required.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> The TSM34Q-6RG StepSERVOintegrated motor can be operated in several different control modes, including streaming command mode using SCL commands or Modbus RTU, pulse &amp; direction mode, velocity mode, and stored program mode which offers the ability to run a Q program stored in non-volatile memory. Q programs are created using Applied Motion's Q Programmer software, which provides powerful commands for motion, I/O, conditional processing, multi-tasking, math functions, and more. All TSM34 integrated motors are set up, configured and tuned using Applied Motion's <a target=\"_blank\" href=\"https://www.applied-motion.com/s/products/software/step-servo-quick-tuner\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Step-Servo Quick Tuner</a> software with built in Q Programmer<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> Each TSM34 integrated motor comes with 8 digital inputs, 4 digital outputs, and 1 analog input. The digital inputs accept signals of 5-24 VDC and can be used for connecting pulse &amp; direction signals, end-of-travel limit switches, jog switches, quadrature encoder signals, PLC outputs, sensors, or many other signal types. The digital outputs can be connected to PLC inputs, counters, lights, relays, or other devices. The analog input accepts 0-5 VDC signals and can be used for velocity and position control.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> The TSM34Q-6RG comes with an RS-485 port for programming and serial communications to allow for the use of either Modbus RTU or Applied Motion's Streaming Command Language (SCL). An integral 5000-line (20,000 count/rev) incremental encoder is housed inside the same enclosure as the drive electronics and used for closed-loop servo control to attain highly accurate position and velocity control. Encoder counts can be accessed over the network or from within the Q program using data registers.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">NOT included:</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">DC power supply (required), see Power Supplies below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Regen clamp (optional), see Accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Additional accessories available below</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">UL Recognized</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">This integrated StepSERVO motor is UL Recognized in the US and Canada, file no. E515393.</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">",
+    "specs": [
+      {
+        "key": "Supply Voltage",
+        "value": "48-70 VDC"
+      },
+      {
+        "key": "Supply Voltage Type",
+        "value": "DC"
+      },
+      {
+        "key": "Control Modes",
+        "value": "Modbus RTU"
+      },
+      {
+        "key": "Encoder Feedback",
+        "value": "Yes"
+      },
+      {
+        "key": "Encoder Resolution",
+        "value": "5,000 lines (20,000 counts quadrature)"
+      },
+      {
+        "key": "Setup Method",
+        "value": "Software setup"
+      },
+      {
+        "key": "Digital Inputs",
+        "value": "8"
+      },
+      {
+        "key": "Digital Outputs",
+        "value": "4"
+      },
+      {
+        "key": "Analog Inputs",
+        "value": "1 single-ended"
+      },
+      {
+        "key": "Circuit Protection",
+        "value": "Short circuit, Over-voltage, Under-voltage, Over-temp"
+      },
+      {
+        "key": "Status LEDs",
+        "value": "1 red, 1 green"
+      },
+      {
+        "key": "Frame Size",
+        "value": "NEMA 34"
+      },
+      {
+        "key": "Holding Torque",
+        "value": "1161 oz-in"
+      },
+      {
+        "key": "Max. Boost Torque",
+        "value": "1338 oz-in"
+      },
+      {
+        "key": "Step Angle",
+        "value": "1.8 deg"
+      },
+      {
+        "key": "Rotor Inertia",
+        "value": "3657.88 g-cm^2"
+      },
+      {
+        "key": "Length",
+        "value": "203.2 mm"
+      },
+      {
+        "key": "Weight",
+        "value": "5.5 kg"
+      },
+      {
+        "key": "Operating Temperature Range",
+        "value": "0 to 40 °C"
+      },
+      {
+        "key": "Ambient Temperature Range",
+        "value": "0 to 85 °C"
+      },
+      {
+        "key": "Ambient Humidity",
+        "value": "90% max, non-condensing"
+      },
+      {
+        "key": "Insulation Class",
+        "value": "Class B (130°C)"
+      },
+      {
+        "key": "Shaft Diameter",
+        "value": "14 mm"
+      },
+      {
+        "key": "Communication Protocols",
+        "value": "RS-485"
+      }
+    ],
+    "files": [
+      {
+        "label": "Sample Code: scldemo.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Sample-Code/scldemo.zip"
+      },
+      {
+        "label": "SCL Utility",
+        "url": "https://www.applied-motion.com/s/software/scl-utility"
+      },
+      {
+        "label": "Step-Servo Quick Tuner",
+        "url": "https://www.applied-motion.com/s/software/step-servo-quick-tuner"
+      },
+      {
+        "label": "Host-Command-Reference_920-0002W.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/Host-Command-Reference_920-0002W_0.pdf"
+      },
+      {
+        "label": "TSM34Q-C-IP_Quick Set-up guide_EN-AMP_920-0112C.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/TSM34Q-C-IP_Quick%20Set-up%20guide_EN-AMP_920-0112C.pdf"
+      },
+      {
+        "label": "TSM34Q-C-IP_Hardware_Manual_920-0110B.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Manuals/TSM34Q-C-IP_Hardware_Manual_920-0110B_0.pdf"
+      },
+      {
+        "label": "TSM34Q-6RG_RevA.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/2D-Drawing/TSM34Q-6RG_RevA.pdf"
+      },
+      {
+        "label": "TSM34x-6RG-6CG-3D.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/3D-Model/TSM34x-6RG-6CG-3D.zip"
+      },
+      {
+        "label": "StepSERVO Tuning Guide_962-0002A.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/StepSERVO-Tuning-Guide_962-0002A.pdf"
+      },
+      {
+        "label": "APPN0040A_Hard-Stop_Homing_StepSERVO-SV200.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/APPN0040A_Hard-Stop_Homing_StepSERVO-SV200.pdf"
+      },
+      {
+        "label": "APPN0034B-ModbusRTU-from-Proface-HMI-with-Q.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/APPN0034B-ModbusRTU-from-Proface-HMI-with-Q.zip"
+      }
+    ]
+  },
+  {
+    "id": "01t5i000000y08oAAA",
+    "name": "TXM24X3B-R IP65 Rated NEMA 24 StepSERVO Integrated Motor w/ TruCount Encoder , RS-485",
+    "sku": "TXM24X3B-R",
+    "stock": "10",
+    "unit_price": 1167,
+    "includedItems": [
+      "TXM24X3B-R integrated Motor"
+    ],
+    "features": [
+      "TruCount multi-turn, absolute encoder technology",
+      "20,000 counts/turn single-turn; 65,536 turns multi-turn",
+      "StepSERVO technology featuring space vector current control",
+      "Boost torque for faster acceleration",
+      "Rated IP65 for wet and dusty environments",
+      "M12 connectors",
+      "NEMA 24 frame size",
+      "Position, velocity, and torque control modes",
+      "Supports Serial Command Language (SCL)",
+      "Dual-port communications on all models",
+      "Q programming for stand-alone operation"
+    ],
+    "description": "The TXM224x3B StepSERVO Integrated Motor is a drive+encoder+motor unit, fusing a NEMA 24 step motor and a servo drive into a single device. Power to the drive, located at the rear of the motor, must be supplied by an external DC supply. See Recommended Products below for compatible power supplies.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">StepSERVO Closed-Loop Stepper Technology with IP65 rating</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> StepSERVOtechnology combines the high torque capabilities of a step motor with the closed loop dynamic control of a servo system. The result is a highly configurable all-in-one motion control solution that operates quietly and efficiently, requiring only the minimum amount of current to maintain commanded position and velocity. Boost (or peak) torque that is higher than the rated holding torque increases the limits of acceleration, leading to faster cycle times. StepSERVOintegrated motors can be applied in systems where a traditional stepper motor would not be capable of achieving the high accuracy required.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">TruCount Multi-Turn, Absolute Encoder Technology</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> TruCount absolute encoders provide the ultimate in hassle-free positioning of rotary and linear axes. TruCountencoders are multi-turn, absolute encoders that don't require batteries or external power to track encoder position while the motor is powered off. There are no mechanical gears in TruCountencoders. The encoders make use of a novel energy harvesting technique that continues to track motor position when the motor is powered off. Any amount of displacement in the shaft causes enough energy to be created for the motor to continue tracking its absolute position. It is an extremely effective approach to multi-turn, absolute position tracking. Utilizing multi-turn, absolute encoders in motion control applications reduces downtime by shortening machine power up sequences and eliminates the need for homing runs after power cycles and emergency stops (e-stops).<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Models Available</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> Part No. Communications Description <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> TXM224x3B-IP Ethernet <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Dual Ethernet ports for configuration, programming, and networking connections.</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Stream commands from a host controller to multiple axes using Applied Motion's Serial Command Language (SCL).</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Built-in support for EtherNet/IP and Modbus TCP industrial networking protocols.</li></ul> TXM224x3B-R RS-485 <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Dual RS-485 ports for configuration, programming, and networking connections.</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Stream commands from a host controller to as many as 32 axes using Applied Motion's Serial Command Language (SCL).</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Built-in support for Modbus RTU industrial networking protocol.</li></ul> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">NOT Included</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Power cable (required), see accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Communication cable (required), see accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">I/O cable (recommended), see accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">DC power supply (required), see accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Regen clamp (recommended), see accessories below</li></ul> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">UL Recognized</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">This integrated StepSERVO motor is UL Recognized in the US and Canada, file no. E515393.</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">",
+    "specs": [
+      {
+        "key": "Supply Voltage",
+        "value": "12-70 VDC"
+      },
+      {
+        "key": "Supply Voltage Type",
+        "value": "DC"
+      },
+      {
+        "key": "Current Draw from Power Supply",
+        "value": "4.5 A max"
+      },
+      {
+        "key": "Control Modes",
+        "value": "Step & Direction"
+      },
+      {
+        "key": "Encoder Feedback",
+        "value": "Yes"
+      },
+      {
+        "key": "Encoder Resolution",
+        "value": "5,000 lines (20,000 counts quadrature)"
+      },
+      {
+        "key": "Setup Method",
+        "value": "Software setup"
+      },
+      {
+        "key": "Digital Inputs",
+        "value": "3"
+      },
+      {
+        "key": "Digital Outputs",
+        "value": "1"
+      },
+      {
+        "key": "Analog Inputs",
+        "value": "1 single-ended"
+      },
+      {
+        "key": "Circuit Protection",
+        "value": "Short circuit, Over-voltage, Under-voltage, Over-temp"
+      },
+      {
+        "key": "Status LEDs",
+        "value": "1 red, 1 green"
+      },
+      {
+        "key": "Frame Size",
+        "value": "NEMA 24"
+      },
+      {
+        "key": "Holding Torque",
+        "value": "2.401 N-m"
+      },
+      {
+        "key": "Max. Boost Torque",
+        "value": "418 oz-in"
+      },
+      {
+        "key": "Step Angle",
+        "value": "1.8 deg"
+      },
+      {
+        "key": "Length",
+        "value": "148.34 mm"
+      },
+      {
+        "key": "Weight",
+        "value": "2 kg"
+      },
+      {
+        "key": "Operating Temperature Range",
+        "value": "0 to 85 °C"
+      },
+      {
+        "key": "Ambient Temperature Range",
+        "value": "0 to 40 °C"
+      },
+      {
+        "key": "Ambient Humidity",
+        "value": "90% max, non-condensing"
+      },
+      {
+        "key": "Insulation Class",
+        "value": "Class B (130°C)"
+      },
+      {
+        "key": "Shaft Diameter",
+        "value": "10 mm"
+      },
+      {
+        "key": "Category Series",
+        "value": "TruCount Absolute Encoders"
+      },
+      {
+        "key": "Communication Protocols",
+        "value": "RS-485"
+      }
+    ],
+    "files": [
+      {
+        "label": "Host-Command-Reference_920-0002W.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/Host-Command-Reference_920-0002W_0.pdf"
+      },
+      {
+        "label": "920-0156_RevB_TXM24XB Hardware Manual.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Manuals/920-0156_RevB_TXM24XB%20Hardware%20Manual.pdf"
+      },
+      {
+        "label": "TXM24X3B-R_RevA.PDF",
+        "url": "https://appliedmotion.s3.amazonaws.com/TXM24X3B-R_RevA.PDF"
+      },
+      {
+        "label": "TXM24X3B-R_RevA.zip",
+        "url": "https://appliedmotion.s3.amazonaws.com/TXM24X3B-R_RevA.zip"
+      }
+    ]
+  },
+  {
+    "id": "01t5i000000xzuDAAQ",
+    "name": "TXM34IP-3DG IP65 Rated NEMA 34 StepSERVO Integrated Motor w/ EtherNet/IP",
+    "sku": "TXM34IP-3DG",
+    "stock": "12",
+    "unit_price": 1619,
+    "includedItems": [
+      "TXM34IP-3DG integrated motor"
+    ],
+    "features": [
+      "StepSERVO technology featuring space vector current control",
+      "Peak torques for greater acceleration and throughput",
+      "Higher efficiency, lower power consumption than open loop steppers",
+      "Hi-resolution 20,000 count encoder for closed-loop control",
+      "Rated IP65 for wet and dusty environments",
+      "M12 connectors",
+      "NEMA 34 frame size",
+      "Q programming control mode for stand-alone operation",
+      "Dual-port Ethernet with M12 connectors",
+      "UDP, TCP/IP, and Modbus TCP for easy PLC and HMI communication",
+      "EtherNet/IP support for easy PLC and HMI communication"
+    ],
+    "description": "The TXM34IP-3DG StepSERVOintegrated motor is a drive+motor unit, fusing a NEMA 34 step motor and a servo drive into a single device. Power to the drive, located at the rear of the motor, must be supplied by an external DC supply. See Related and Recommended Products below for compatible 24 and 48 volt DC power supplies. <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> StepSERVOtechnology combines the high torque capabilities of a step motor with the closed loop dynamic control of a servo system. The result is a highly customizable all-in-one motion control solution that operates quietly and efficiently, requiring only the minimum amount of current to maintain commanded position and velocity. Boost (or peak) torque that is higher than the rated holding torque increases the limits of acceleration, leading to faster cycle times. StepSERVOintegrated motors can be applied in systems where a traditional stepper motor would not be capable of achieving the high accuracy required.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> The TXM34IP-3DG StepSERVOntegrated StepSERVOincorporates EtherNet/IP network communications, the widely used industrial protocol for manufacturing automation applications. Implicit (Class 1) and explicit (Class 3) messaging are supported.. With EtherNet/IP users can control, configure and query the drive using an open, standards-based, industrial Ethernet connection at speeds up to 100 MBits/sec. All drive+motor features can be accessed over EtherNet/IP, including more than 100 commands and 130 registers for controlling motion, I/O, configuration, polling, math, register manipulation, and Q programming. This integrated StepSERVOcan be operated in several different control modes, including Streaming Command mode using either SCL, Pulse &amp; Direction mode, and Velocity mode, plus it has the ability to run a Q program stored in non-volatile memory. Q programs are created using Applied Motion's Q Programmer software, which provides powerful commands for motion, I/O, conditional processing, multi-tasking, math functions, and more. All TXM34 units are setup, configured and tuned using Applied Motion's <a target=\"_blank\" href=\"https://www.applied-motion.com/s/products/software/step-servo-quick-tuner\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Step-Servo Quick Tuner</a> software with built in Q Programmer<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> Each TXM34 integrated motor comes with 5 digital inputs, 3 digital outputs, and 1 analog input. The digital inputs accept signals of 5-24 VDC and can be used for connecting pulse &amp; direction signals, end-of-travel limit switches, jog switches, quadrature encoder signals, PLC outputs, sensors, or many other signal types. The digital outputs can be connected to PLC inputs, counters, lights, relays, or other devices. The analog input accepts 0-5 VDC signals and can be used for velocity and position control.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> The TXM34IP-3DG comes with a fast 10/100 MBit Ethernet port for programming and EtherNet/IP communications. The same port also supports TCP and UDP protocols for sending commands from Applied Motion's proprietary serial command language (SCL). As well as the popular Modbus/TCP protocol.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> All TXM34 models are RoHS compliant and meet IP65 standards to ensure reliable operation in wet and dusty installation environments.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">NOT included:</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">DC power supply (required), see Power Supplies below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Mating cables (required), see Accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Regen clamp (optional), see Accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Additional accessories available below</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">UL Recognized</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">This integrated StepSERVO motor is UL Recognized in the US and Canada, file no. E515393.</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">",
+    "specs": [
+      {
+        "key": "Supply Voltage",
+        "value": "24-70 VDC"
+      },
+      {
+        "key": "Supply Voltage Type",
+        "value": "DC"
+      },
+      {
+        "key": "Current Draw from Power Supply",
+        "value": "6.1 A max"
+      },
+      {
+        "key": "Control Modes",
+        "value": "Modbus TCP"
+      },
+      {
+        "key": "Encoder Feedback",
+        "value": "Yes"
+      },
+      {
+        "key": "Encoder Resolution",
+        "value": "5,000 lines (20,000 counts quadrature)"
+      },
+      {
+        "key": "Setup Method",
+        "value": "Software setup"
+      },
+      {
+        "key": "Digital Inputs",
+        "value": "5"
+      },
+      {
+        "key": "Digital Outputs",
+        "value": "3"
+      },
+      {
+        "key": "Analog Inputs",
+        "value": "1 single-ended"
+      },
+      {
+        "key": "Circuit Protection",
+        "value": "Short circuit, Over-voltage, Under-voltage, Over-temp"
+      },
+      {
+        "key": "Status LEDs",
+        "value": "1 red, 1 green"
+      },
+      {
+        "key": "Frame Size",
+        "value": "NEMA 34"
+      },
+      {
+        "key": "Holding Torque",
+        "value": "736 oz-in"
+      },
+      {
+        "key": "Max. Boost Torque",
+        "value": "814 oz-in"
+      },
+      {
+        "key": "Step Angle",
+        "value": "1.8 deg"
+      },
+      {
+        "key": "Rotor Inertia",
+        "value": "1482.92 g-cm^2"
+      },
+      {
+        "key": "Length",
+        "value": "143 mm"
+      },
+      {
+        "key": "Weight",
+        "value": "3.2 kg"
+      },
+      {
+        "key": "Operating Temperature Range",
+        "value": "0 to 85 °C"
+      },
+      {
+        "key": "Ambient Temperature Range",
+        "value": "0 to 40 °C"
+      },
+      {
+        "key": "Ambient Humidity",
+        "value": "90% max, non-condensing"
+      },
+      {
+        "key": "Insulation Class",
+        "value": "Class B (130°C)"
+      },
+      {
+        "key": "Shaft Diameter",
+        "value": "14 mm"
+      },
+      {
+        "key": "Communication Protocols",
+        "value": "Ethernet"
+      }
+    ],
+    "files": [
+      {
+        "label": "Sample Code: scldemo.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Sample-Code/scldemo.zip"
+      },
+      {
+        "label": "SCL Utility",
+        "url": "https://www.applied-motion.com/s/software/scl-utility"
+      },
+      {
+        "label": "Step-Servo Quick Tuner",
+        "url": "https://www.applied-motion.com/s/software/step-servo-quick-tuner"
+      },
+      {
+        "label": "TXM34IP-r3.03.eds",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Datasheets/TXM34IP-r3.03.eds"
+      },
+      {
+        "label": "Host-Command-Reference_920-0002W.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/Host-Command-Reference_920-0002W_0.pdf"
+      },
+      {
+        "label": "920-0114_RevF_TXM34Q-C-IP_Hardware_Manual.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Manuals/920-0114_RevF_TXM34Q-C-IP_Hardware_Manual.pdf"
+      },
+      {
+        "label": "TXM34Q-C-IP_Quick Set-up guide_EN-AMP_920-0116C.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/TXM34Q-C-IP_Quick%20Set-up%20guide_EN-AMP_920-0116C.pdf"
+      },
+      {
+        "label": "TXM34IP-3DG_RevA.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/2D-Drawing/TXM34IP-3DG_RevA.pdf"
+      },
+      {
+        "label": "TXM34IP-3DG_RevA.zip",
+        "url": "https://appliedmotion.s3.amazonaws.com/TXM34IP-3DG_RevA.zip"
+      },
+      {
+        "label": "StepSERVO Tuning Guide_962-0002A.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/StepSERVO-Tuning-Guide_962-0002A.pdf"
+      },
+      {
+        "label": "APPN0019_Analog-positioning-using-Q-program.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/APPN0019_Analog-positioning-using-Q-program.zip"
+      },
+      {
+        "label": "APPN0020-Maple-Systems-with-Ethernet-Drive.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/APPN0020-Maple-Systems-with-Ethernet-Drive.zip"
+      }
+    ]
+  },
+  {
+    "id": "01t5i000000xzNIAAY",
+    "name": "TXM34IP-6DG IP65 Rated NEMA 34 StepSERVO Integrated Motor w/ EtherNet/IP",
+    "sku": "TXM34IP-6DG",
+    "stock": "16",
+    "unit_price": 1848,
+    "includedItems": [
+      "TXM34IP-6DG integrated motor"
+    ],
+    "features": [
+      "StepSERVO technology featuring space vector current control",
+      "Peak torques for greater acceleration and throughput",
+      "Higher efficiency, lower power consumption than open loop steppers",
+      "Hi-resolution 20,000 count encoder for closed-loop control",
+      "Rated IP65 for wet and dusty environments",
+      "M12 connectors",
+      "NEMA 34 frame size",
+      "Q programming control mode for stand-alone operation",
+      "Dual-port Ethernet with M12 connectors",
+      "UDP, TCP/IP, and Modbus TCP for easy PLC and HMI communication",
+      "EtherNet/IP support for easy PLC and HMI communication"
+    ],
+    "description": "The TXM34IP-6DG StepSERVOintegrated motor is a drive+motor unit, fusing a NEMA 34 step motor and a servo drive into a single device. Power to the drive, located at the rear of the motor, must be supplied by an external DC supply. See Related and Recommended Products below for compatible 48 volt DC power supplies. <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> StepSERVOtechnology combines the high torque capabilities of a step motor with the closed loop dynamic control of a servo system. The result is a highly customizable all-in-one motion control solution that operates quietly and efficiently, requiring only the minimum amount of current to maintain commanded position and velocity. Boost (or peak) torque that is higher than the rated holding torque increases the limits of acceleration, leading to faster cycle times. StepSERVOintegrated motors can be applied in systems where a traditional stepper motor would not be capable of achieving the high accuracy required.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> The TXM34IP-6DG StepSERVOntegrated StepSERVOincorporates EtherNet/IP network communications, the widely used industrial protocol for manufacturing automation applications. Implicit (Class 1) and explicit (Class 3) messaging are supported. With EtherNet/IP users can control, configure and query the drive using an open, standards-based, industrial Ethernet connection at speeds up to 100 MBits/sec. All drive+motor features can be accessed over EtherNet/IP, including more than 100 commands and 130 registers for controlling motion, I/O, configuration, polling, math, register manipulation, and Q programming. This integrated StepSERVOcan be operated in several different control modes, including Streaming Command mode using either SCL, Pulse &amp; Direction mode, and Velocity mode, plus it has the ability to run a Q program stored in non-volatile memory. Q programs are created using Applied Motion's Q Programmer software, which provides powerful commands for motion, I/O, conditional processing, multi-tasking, math functions, and more. All TXM34 units are setup, configured and tuned using Applied Motion's <a target=\"_blank\" href=\"https://www.applied-motion.com/s/products/software/step-servo-quick-tuner\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Step-Servo Quick Tuner</a> software with built in Q Programmer<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> Each TXM34 integrated motor comes with 5 digital inputs, 3 digital outputs, and 1 analog input. The digital inputs accept signals of 5-24 VDC and can be used for connecting pulse &amp; direction signals, end-of-travel limit switches, jog switches, quadrature encoder signals, PLC outputs, sensors, or many other signal types. The digital outputs can be connected to PLC inputs, counters, lights, relays, or other devices. The analog input accepts 0-5 VDC signals and can be used for velocity and position control.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> The TXM34IP-6DG comes with a fast 10/100 MBit Ethernet port for programming and EtherNet/IP communications. The same port also supports TCP and UDP protocols for sending commands from Applied Motion's proprietary serial command language (SCL). As well as the popular Modbus/TCP protocol.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> All TXM34 models are RoHS compliant and meet IP65 standards to ensure reliable operation in wet and dusty installation environments.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">NOT included:</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">DC power supply (required), see Power Supplies below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Mating cables (required), see Accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Regen clamp (optional), see Accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Additional accessories available below</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">UL Recognized</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">This integrated StepSERVO motor is UL Recognized in the US and Canada, file no. E515393.</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">",
+    "specs": [
+      {
+        "key": "Supply Voltage",
+        "value": "48-70 VDC"
+      },
+      {
+        "key": "Supply Voltage Type",
+        "value": "DC"
+      },
+      {
+        "key": "Current Draw from Power Supply",
+        "value": "8 A max"
+      },
+      {
+        "key": "Control Modes",
+        "value": "Modbus TCP"
+      },
+      {
+        "key": "Encoder Feedback",
+        "value": "Yes"
+      },
+      {
+        "key": "Encoder Resolution",
+        "value": "5,000 lines (20,000 counts quadrature)"
+      },
+      {
+        "key": "Setup Method",
+        "value": "Software setup"
+      },
+      {
+        "key": "Digital Inputs",
+        "value": "5"
+      },
+      {
+        "key": "Digital Outputs",
+        "value": "3"
+      },
+      {
+        "key": "Analog Inputs",
+        "value": "1 single-ended"
+      },
+      {
+        "key": "Circuit Protection",
+        "value": "Short circuit, Over-voltage, Under-voltage, Over-temp"
+      },
+      {
+        "key": "Status LEDs",
+        "value": "1 red, 1 green"
+      },
+      {
+        "key": "Frame Size",
+        "value": "NEMA 34"
+      },
+      {
+        "key": "Holding Torque",
+        "value": "1161 oz-in"
+      },
+      {
+        "key": "Max. Boost Torque",
+        "value": "1338 oz-in"
+      },
+      {
+        "key": "Step Angle",
+        "value": "1.8 deg"
+      },
+      {
+        "key": "Rotor Inertia",
+        "value": "3657.88 g-cm^2"
+      },
+      {
+        "key": "Length",
+        "value": "203.2 mm"
+      },
+      {
+        "key": "Weight",
+        "value": "5.5 kg"
+      },
+      {
+        "key": "Operating Temperature Range",
+        "value": "0 to 85 °C"
+      },
+      {
+        "key": "Ambient Temperature Range",
+        "value": "0 to 40 °C"
+      },
+      {
+        "key": "Ambient Humidity",
+        "value": "90% max, non-condensing"
+      },
+      {
+        "key": "Insulation Class",
+        "value": "Class B (130°C)"
+      },
+      {
+        "key": "Shaft Diameter",
+        "value": "14 mm"
+      },
+      {
+        "key": "Communication Protocols",
+        "value": "Ethernet"
+      }
+    ],
+    "files": [
+      {
+        "label": "Sample Code: scldemo.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Sample-Code/scldemo.zip"
+      },
+      {
+        "label": "SCL Utility",
+        "url": "https://www.applied-motion.com/s/software/scl-utility"
+      },
+      {
+        "label": "Step-Servo Quick Tuner",
+        "url": "https://www.applied-motion.com/s/software/step-servo-quick-tuner"
+      },
+      {
+        "label": "TXM34IP-r3.03.eds",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Datasheets/TXM34IP-r3.03.eds"
+      },
+      {
+        "label": "Host-Command-Reference_920-0002W.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/Host-Command-Reference_920-0002W_0.pdf"
+      },
+      {
+        "label": "920-0114_RevF_TXM34Q-C-IP_Hardware_Manual.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Manuals/920-0114_RevF_TXM34Q-C-IP_Hardware_Manual.pdf"
+      },
+      {
+        "label": "TXM34Q-C-IP_Quick Set-up guide_EN-AMP_920-0116C.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/TXM34Q-C-IP_Quick%20Set-up%20guide_EN-AMP_920-0116C.pdf"
+      },
+      {
+        "label": "TXM34IP-6DG_RevA.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/2D-Drawing/TXM34IP-6DG_RevA.pdf"
+      },
+      {
+        "label": "TXM34IP-6DG_RevA.zip",
+        "url": "https://appliedmotion.s3.amazonaws.com/TXM34IP-6DG_RevA.zip"
+      },
+      {
+        "label": "StepSERVO Tuning Guide_962-0002A.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/StepSERVO-Tuning-Guide_962-0002A.pdf"
+      },
+      {
+        "label": "APPN0019_Analog-positioning-using-Q-program.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/APPN0019_Analog-positioning-using-Q-program.zip"
+      },
+      {
+        "label": "APPN0020-Maple-Systems-with-Ethernet-Drive.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/APPN0020-Maple-Systems-with-Ethernet-Drive.zip"
+      }
+    ]
+  },
+  {
+    "id": "01t5i000000y0YyAAI",
+    "name": "TXM34Q-3RG IP65 Rated NEMA 34 StepSERVO Integrated Motor w/ Q Programming and Modbus RTU",
+    "sku": "TXM34Q-3RG",
+    "stock": "9",
+    "unit_price": 1475,
+    "includedItems": [
+      "TXM34Q-3RG integrated motor"
+    ],
+    "features": [
+      "StepSERVO technology featuring space vector current control",
+      "Peak torques for greater acceleration and throughput",
+      "Higher efficiency, lower power consumption than open loop steppers",
+      "Hi-resolution 20,000 count encoder for closed-loop control",
+      "Rated IP65 for wet and dusty environments",
+      "M12 connectors",
+      "NEMA 34 frame size",
+      "Q programming control mode for stand-alone operation",
+      "RS-485 port for programming and communications",
+      "Modbus RTU for easy PLC and HMI communication"
+    ],
+    "description": "The TXM34Q-3RG StepSERVOintegrated motor is a drive+motor unit, fusing a NEMA 34 step motor and a servo drive into a single device. Power to the drive, located at the rear of the motor, must be supplied by an external DC supply. See Related and Recommended Products below for compatible 24 and 48 volt DC power supplies. <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> StepSERVOtechnology combines the high torque capabilities of a step motor with the closed loop dynamic control of a servo system. The result is a highly customizable all-in-one motion control solution that operates quietly and efficiently, requiring only the minimum amount of current to maintain commanded position and velocity. Boost (or peak) torque that is higher than the rated holding torque increases the limits of acceleration, leading to faster cycle times. StepSERVOintegrated motors can be applied in systems where a traditional stepper motor would not be capable of achieving the high accuracy required.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> The TXM34Q-3RG StepSERVOintegrated motor can be operated in several different control modes, including streaming command mode using SCL commands or Modbus RTU, pulse &amp; direction mode, velocity mode, and stored program mode which offers the ability to run a Q program stored in non-volatile memory. Q programs are created using Applied Motion's Q Programmer software, which provides powerful commands for motion, I/O, conditional processing, multi-tasking, math functions, and more. All TXM34 integrated motors are set up, configured and tuned using Applied Motion's <a target=\"_blank\" href=\"https://www.applied-motion.com/s/products/software/step-servo-quick-tuner\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Step-Servo Quick Tuner</a> software with built in Q Programmer<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> Each TXM34 integrated motor comes with 5 digital inputs, 3 digital outputs, and 1 analog input. The digital inputs accept signals of 5-24 VDC and can be used for connecting pulse &amp; direction signals, end-of-travel limit switches, jog switches, quadrature encoder signals, PLC outputs, sensors, or many other signal types. The digital outputs can be connected to PLC inputs, counters, lights, relays, or other devices. The analog input accepts 0-5 VDC signals and can be used for velocity and position control.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> The TXM34Q-3RG comes with an RS-485 port for programming and serial communications to allow for the use of either Modbus RTU or Applied Motion's Streaming Command Language (SCL). An integral 5000-line (20,000 count/rev) incremental encoder is housed inside the same enclosure as the drive electronics and used for closed-loop servo control to attain highly accurate position and velocity control. Encoder counts can be accessed over the network or from within the Q program using data registers.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> All TXM34 models are RoHS compliant and meet IP65 standards to ensure reliable operation in wet and dusty installation environments.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">NOT included:</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">DC power supply (required), see Power Supplies below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Mating cables (required), see Accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Regen clamp (optional), see Accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Additional accessories available below</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">UL Recognized</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">This integrated StepSERVO motor is UL Recognized in the US and Canada, file no. E515393.</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">",
+    "specs": [
+      {
+        "key": "Supply Voltage",
+        "value": "24-70 VDC"
+      },
+      {
+        "key": "Supply Voltage Type",
+        "value": "DC"
+      },
+      {
+        "key": "Current Draw from Power Supply",
+        "value": "6.1 A max"
+      },
+      {
+        "key": "Control Modes",
+        "value": "Modbus RTU"
+      },
+      {
+        "key": "Encoder Feedback",
+        "value": "Yes"
+      },
+      {
+        "key": "Encoder Resolution",
+        "value": "5,000 lines (20,000 counts quadrature)"
+      },
+      {
+        "key": "Setup Method",
+        "value": "Software setup"
+      },
+      {
+        "key": "Digital Inputs",
+        "value": "5"
+      },
+      {
+        "key": "Digital Outputs",
+        "value": "3"
+      },
+      {
+        "key": "Analog Inputs",
+        "value": "1 single-ended"
+      },
+      {
+        "key": "Circuit Protection",
+        "value": "Short circuit, Over-voltage, Under-voltage, Over-temp"
+      },
+      {
+        "key": "Status LEDs",
+        "value": "1 red, 1 green"
+      },
+      {
+        "key": "Frame Size",
+        "value": "NEMA 34"
+      },
+      {
+        "key": "Holding Torque",
+        "value": "736 oz-in"
+      },
+      {
+        "key": "Max. Boost Torque",
+        "value": "814 oz-in"
+      },
+      {
+        "key": "Step Angle",
+        "value": "1.8 deg"
+      },
+      {
+        "key": "Rotor Inertia",
+        "value": "1480.1 g-cm^2"
+      },
+      {
+        "key": "Length",
+        "value": "143 mm"
+      },
+      {
+        "key": "Weight",
+        "value": "3.2 kg"
+      },
+      {
+        "key": "Operating Temperature Range",
+        "value": "0 to 85 °C"
+      },
+      {
+        "key": "Ambient Temperature Range",
+        "value": "0 to 40 °C"
+      },
+      {
+        "key": "Ambient Humidity",
+        "value": "90% max, non-condensing"
+      },
+      {
+        "key": "Insulation Class",
+        "value": "Class B (130°C)"
+      },
+      {
+        "key": "Shaft Diameter",
+        "value": "14 mm"
+      },
+      {
+        "key": "Communication Protocols",
+        "value": "RS-485"
+      }
+    ],
+    "files": [
+      {
+        "label": "Sample Code: scldemo.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Sample-Code/scldemo.zip"
+      },
+      {
+        "label": "SCL Utility",
+        "url": "https://www.applied-motion.com/s/software/scl-utility"
+      },
+      {
+        "label": "Step-Servo Quick Tuner",
+        "url": "https://www.applied-motion.com/s/software/step-servo-quick-tuner"
+      },
+      {
+        "label": "Host-Command-Reference_920-0002W.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/Host-Command-Reference_920-0002W_0.pdf"
+      },
+      {
+        "label": "920-0114_RevF_TXM34Q-C-IP_Hardware_Manual.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Manuals/920-0114_RevF_TXM34Q-C-IP_Hardware_Manual.pdf"
+      },
+      {
+        "label": "TXM34Q-C-IP_Quick Set-up guide_EN-AMP_920-0116C.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/TXM34Q-C-IP_Quick%20Set-up%20guide_EN-AMP_920-0116C.pdf"
+      },
+      {
+        "label": "TXM34Q-3RG_RevA.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/2D-Drawing/TXM34Q-3RG_RevA.pdf"
+      },
+      {
+        "label": "TXM34Q-3RG_RevA.zip",
+        "url": "https://appliedmotion.s3.amazonaws.com/TXM34Q-3RG_RevA.zip"
+      },
+      {
+        "label": "StepSERVO Tuning Guide_962-0002A.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/StepSERVO-Tuning-Guide_962-0002A.pdf"
+      },
+      {
+        "label": "APPN0040A_Hard-Stop_Homing_StepSERVO-SV200.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/APPN0040A_Hard-Stop_Homing_StepSERVO-SV200.pdf"
+      },
+      {
+        "label": "APPN0034B-ModbusRTU-from-Proface-HMI-with-Q.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/APPN0034B-ModbusRTU-from-Proface-HMI-with-Q.zip"
+      }
+    ]
+  },
+  {
+    "id": "01t5i000000xzm0AAA",
+    "name": "TXM34Q-6RG IP65 Rated NEMA 34 StepSERVO Integrated Motor w/ Q Programming and Modbus RTU",
+    "sku": "TXM34Q-6RG",
+    "stock": "5",
+    "unit_price": 1592,
+    "includedItems": [
+      "TXM34Q-6RG integrated motor"
+    ],
+    "features": [
+      "StepSERVO technology featuring space vector current control",
+      "Peak torques for greater acceleration and throughput",
+      "Higher efficiency, lower power consumption than open loop steppers",
+      "Hi-resolution 20,000 count encoder for closed-loop control",
+      "Rated IP65 for wet and dusty environments",
+      "M12 connectors",
+      "NEMA 34 frame size",
+      "Q programming control mode for stand-alone operation",
+      "RS-485 port for programming and communications",
+      "Modbus RTU for easy PLC and HMI communication"
+    ],
+    "description": "The TXM34Q-6RG StepSERVOintegrated motor is a drive+motor unit, fusing a NEMA 34 step motor and a servo drive into a single device. Power to the drive, located at the rear of the motor, must be supplied by an external DC supply. See Related and Recommended Products below for compatible 48 volt DC power supplies. <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> StepSERVOtechnology combines the high torque capabilities of a step motor with the closed loop dynamic control of a servo system. The result is a highly customizable all-in-one motion control solution that operates quietly and efficiently, requiring only the minimum amount of current to maintain commanded position and velocity. Boost (or peak) torque that is higher than the rated holding torque increases the limits of acceleration, leading to faster cycle times. StepSERVOintegrated motors can be applied in systems where a traditional stepper motor would not be capable of achieving the high accuracy required.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> The TXM34Q-6RG StepSERVOintegrated motor can be operated in several different control modes, including streaming command mode using SCL commands or Modbus RTU, pulse &amp; direction mode, velocity mode, and stored program mode which offers the ability to run a Q program stored in non-volatile memory. Q programs are created using Applied Motion's Q Programmer software, which provides powerful commands for motion, I/O, conditional processing, multi-tasking, math functions, and more. All TXM34 integrated motors are set up, configured and tuned using Applied Motion's <a target=\"_blank\" href=\"https://www.applied-motion.com/s/products/software/step-servo-quick-tuner\" c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Step-Servo Quick Tuner</a> software with built in Q Programmer<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> Each TXM34 integrated motor comes with 5 digital inputs, 3 digital outputs, and 1 analog input. The digital inputs accept signals of 5-24 VDC and can be used for connecting pulse &amp; direction signals, end-of-travel limit switches, jog switches, quadrature encoder signals, PLC outputs, sensors, or many other signal types. The digital outputs can be connected to PLC inputs, counters, lights, relays, or other devices. The analog input accepts 0-5 VDC signals and can be used for velocity and position control.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> The TXM34Q-6RG comes with an RS-485 port for programming and serial communications to allow for the use of either Modbus RTU or Applied Motion's Streaming Command Language (SCL). An integral 5000-line (20,000 count/rev) incremental encoder is housed inside the same enclosure as the drive electronics and used for closed-loop servo control to attain highly accurate position and velocity control. Encoder counts can be accessed over the network or from within the Q program using data registers.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> All TXM34 models are RoHS compliant and meet IP65 standards to ensure reliable operation in wet and dusty installation environments.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">NOT included:</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">DC power supply (required), see Power Supplies below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Mating cables (required), see Accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Regen clamp (optional), see Accessories below</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">Additional accessories available below</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <strong c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">UL Recognized</strong><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">This integrated StepSERVO motor is UL Recognized in the US and Canada, file no. E515393.</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">",
+    "specs": [
+      {
+        "key": "Supply Voltage",
+        "value": "48-70 VDC"
+      },
+      {
+        "key": "Supply Voltage Type",
+        "value": "DC"
+      },
+      {
+        "key": "Control Modes",
+        "value": "Modbus RTU"
+      },
+      {
+        "key": "Encoder Feedback",
+        "value": "Yes"
+      },
+      {
+        "key": "Encoder Resolution",
+        "value": "5,000 lines (20,000 counts quadrature)"
+      },
+      {
+        "key": "Setup Method",
+        "value": "Software setup"
+      },
+      {
+        "key": "Digital Inputs",
+        "value": "5"
+      },
+      {
+        "key": "Digital Outputs",
+        "value": "3"
+      },
+      {
+        "key": "Analog Inputs",
+        "value": "1 single-ended"
+      },
+      {
+        "key": "Circuit Protection",
+        "value": "Short circuit, Over-voltage, Under-voltage, Over-temp"
+      },
+      {
+        "key": "Status LEDs",
+        "value": "1 red, 1 green"
+      },
+      {
+        "key": "Frame Size",
+        "value": "NEMA 34"
+      },
+      {
+        "key": "Holding Torque",
+        "value": "1161 oz-in"
+      },
+      {
+        "key": "Max. Boost Torque",
+        "value": "1338 oz-in"
+      },
+      {
+        "key": "Step Angle",
+        "value": "1.8 deg"
+      },
+      {
+        "key": "Rotor Inertia",
+        "value": "3657.88 g-cm^2"
+      },
+      {
+        "key": "Length",
+        "value": "203.2 mm"
+      },
+      {
+        "key": "Weight",
+        "value": "5.5 kg"
+      },
+      {
+        "key": "Operating Temperature Range",
+        "value": "0 to 85 °C"
+      },
+      {
+        "key": "Ambient Temperature Range",
+        "value": "0 to 40 °C"
+      },
+      {
+        "key": "Ambient Humidity",
+        "value": "90% max, non-condensing"
+      },
+      {
+        "key": "Insulation Class",
+        "value": "Class B (130°C)"
+      },
+      {
+        "key": "Shaft Diameter",
+        "value": "14 mm"
+      },
+      {
+        "key": "Communication Protocols",
+        "value": "RS-485"
+      }
+    ],
+    "files": [
+      {
+        "label": "Sample Code: scldemo.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Sample-Code/scldemo.zip"
+      },
+      {
+        "label": "SCL Utility",
+        "url": "https://www.applied-motion.com/s/software/scl-utility"
+      },
+      {
+        "label": "Step-Servo Quick Tuner",
+        "url": "https://www.applied-motion.com/s/software/step-servo-quick-tuner"
+      },
+      {
+        "label": "Host-Command-Reference_920-0002W.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/Host-Command-Reference_920-0002W_0.pdf"
+      },
+      {
+        "label": "920-0114_RevF_TXM34Q-C-IP_Hardware_Manual.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Manuals/920-0114_RevF_TXM34Q-C-IP_Hardware_Manual.pdf"
+      },
+      {
+        "label": "TXM34Q-C-IP_Quick Set-up guide_EN-AMP_920-0116C.pdf",
+        "url": "https://appliedmotion.s3.amazonaws.com/TXM34Q-C-IP_Quick%20Set-up%20guide_EN-AMP_920-0116C.pdf"
+      },
+      {
+        "label": "TXM34Q-6RG_RevA.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/2D-Drawing/TXM34Q-6RG_RevA.pdf"
+      },
+      {
+        "label": "TXM34Q-6RG_RevA.zip",
+        "url": "https://appliedmotion.s3.amazonaws.com/TXM34Q-6RG_RevA.zip"
+      },
+      {
+        "label": "StepSERVO Tuning Guide_962-0002A.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/StepSERVO-Tuning-Guide_962-0002A.pdf"
+      },
+      {
+        "label": "APPN0040A_Hard-Stop_Homing_StepSERVO-SV200.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/APPN0040A_Hard-Stop_Homing_StepSERVO-SV200.pdf"
+      },
+      {
+        "label": "APPN0034B-ModbusRTU-from-Proface-HMI-with-Q.zip",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/Application-Notes/APPN0034B-ModbusRTU-from-Proface-HMI-with-Q.zip"
+      }
+    ]
+  },
+  {
+    "id": "01t5i000000xzUpAAI",
+    "name": "1000-382 PoE+ Injector for Power over Ethernet products",
+    "sku": "1000-382",
+    "stock": 0,
+    "unit_price": null,
+    "includedItems": [],
+    "features": [
+      "1 PoE Port and 1 Uplink Port at 10/100/1000Mbps each",
+      "Each injector can power one TSM14POE StepSERVO Integrated Motor",
+      "Up to 30W of power over Ethernet. Meets IEEE 802.3at standard (IEEE 802.3af backwards-compatible)",
+      "Surface or wall mount, can also be slotted side-by-side with multiple injectors",
+      "Built-in power supply for all-in-one design (uses standard included grounded AC cord)",
+      "PD (Power Detection) for non-PoE and low-power devices",
+      "RoHS Compliant, CE/FCC",
+      "Safety Approval: EN 60950:2006"
+    ],
+    "description": "The 1000-382 is a midspan injector designed to supply power over Ethernet to compatible integrated motors. The injector includes two RJ45 ports and an IEC standard AC power connector. Mating AC power cable is included.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> Compatible Integrated Motors<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">TSM14POE3M-IPEJ StepSERVOintegrated motor with RJ45 Ethernet connector</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">TSM14POE3M-JGxx StepSERVOintegrated motor with RJ45 Ethernet connector and planetary gearhead</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">TSM14POE3M-IPEM StepSERVOintegrated motor with M12 Ethernet connector</li><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">TSM14POE3M-MGxx StepSERVOintegrated motor with M12 Ethernet connector and planetary gearhead</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> Agency Approvals<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <ul c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><li c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">CE &amp; FCC approved, RoHS compliant, EN 60950:2006 safety.</li></ul><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> <br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">",
+    "specs": [
+      {
+        "key": "Supply Voltage",
+        "value": "100 - 240 VAC"
+      },
+      {
+        "key": "Regulated Output Voltage",
+        "value": "58 VDC"
+      },
+      {
+        "key": "Maximum Output Power",
+        "value": "30 watts"
+      },
+      {
+        "key": "Maximum Ambient Temperature",
+        "value": "122 °F"
+      },
+      {
+        "key": "Weight",
+        "value": "0.27 kg"
+      }
+    ],
+    "files": [
+      {
+        "label": "1000-382 Injector Mounting Drawing",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/2D-Drawing/1000-382-RevA-POE-Injector-Mounting.pdf"
+      },
+      {
+        "label": "1000-382-RevA-POE-Injector-Mounting.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/2D-Drawing/1000-382-RevA-POE-Injector-Mounting.pdf"
+      }
+    ]
+  },
+  {
+    "id": "01t5i000000xztYAAQ",
+    "name": "3004-189 Serial Programming Cable for RS-232 Ports",
+    "sku": "3004-189",
+    "stock": "4",
+    "unit_price": 26,
+    "includedItems": [],
+    "features": [
+      "10 foot cable",
+      "9-pin D-Sub to RJ-11",
+      "Used for setup, configuration, and programming",
+      "All drives with an RS-232 port"
+    ],
+    "description": "One 3004-189 serial programming cable is provided with each Applied Motion stepper and servo drive that has an RS-232 port. The 3004-189 is used for setup and programming of a drive, but can also be used in streaming serial command (SCL) applications as a permanent connection between the drive and the host device's RS-232 port.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">",
+    "specs": [
+      {
+        "key": "Drive Connector",
+        "value": "RJ-11 (6P4C) modular plug"
+      },
+      {
+        "key": "PC/host connector",
+        "value": "female 9-pin D-Sub"
+      },
+      {
+        "key": "Orientation Type",
+        "value": "Straight"
+      },
+      {
+        "key": "Cable Type",
+        "value": "Serial Programming Cable"
+      },
+      {
+        "key": "Cable Length",
+        "value": "10 ft"
+      }
+    ],
+    "files": [
+      {
+        "label": "3004-189_RevD_prgm_cbl_.pdf",
+        "url": "https://applied-motion.s3.amazonaws.com/documents/2D-Drawing/3004-189_RevD_prgm_cbl_.pdf"
+      }
+    ]
+  },
+  {
+    "id": "01t5i000000y0EcAAI",
+    "name": "3004-190 Serial Cable for SiNet Hubs and MMIs",
+    "sku": "3004-190",
+    "stock": "18",
+    "unit_price": 14,
+    "includedItems": [],
+    "features": [
+      "RJ-11 to RJ-11 cable",
+      "Compatible with SiNet Hub 444 and SiNet Hub 8 multi-axis controllers",
+      "Compatible with MMI-01 and MMI-02 operator interfaces"
+    ],
+    "description": "The 3004-190 Hub/MMI Cable is a replacement cable for SiNet Hub multi-axis controllers and MMI operator interfaces. The cable can be used to connect a SiNet Hub-compatible stepper or servo drive to one of the available ports of a SiNet Hub 444 or 8. It also cable can also be used to connect an MMI-01 or MMI-02 operator interface panel to the PC/MMI port of an Si stepper or servo drive, or the PC/MMI port of a SiNet Hub.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> One 3004-190 cable is included with each MMI, so there is no need to order one with a new MMI. This is a replacement cable if you lose or damage the one that came with your MMI.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"> Five or nine 3004-190 cables are included with each SiNet Hub 444 or SiNet Hub 8, respectively, so there is no need to order these cables with a new SiNet Hub. This is a replacement cable if you lose or damage any of the cables that came with your SiNet Hub.<br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\"><br c-b2bproductdetailinfo_b2bproductdetailinfo=\"\">",
+    "specs": [
+      {
+        "key": "Orientation Type",
+        "value": "Straight"
+      },
+      {
+        "key": "Connector",
+        "value": "one RJ-11 (6P4C) plug on each end"
+      },
+      {
+        "key": "Cable Type",
+        "value": "Serial Cable"
+      },
+      {
+        "key": "Cable Length",
+        "value": "7 ft"
+      }
+    ],
+    "files": []
+  }
+]

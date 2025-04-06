@@ -1,0 +1,72 @@
+{
+    "mappings": {
+        "properties": {
+            "id": {
+                "type": "keyword"
+            },
+            "title": {
+                "type": "text",
+                "analyzer": "standard",
+                "fields": {
+                    "autocomplete": {
+                        "type": "text",
+                        "analyzer": "autocomplete",
+                        "search_analyzer": "standard"
+                    }
+                }
+            },
+            "sku": {
+                "type": "keyword"
+            },
+            "description": {
+                "type": "text"
+            },
+            "breadcrumbs": {
+                "type": "text"
+            },
+            "features": {
+                "type": "text"
+            },
+            "specs": {
+                "type": "nested",
+                "properties": {
+                    "key": {
+                        "type": "keyword"
+                    },
+                    "value": {
+                        "type": "text"
+                    }
+                }
+            },
+            "unit_price": {
+                "type": "float"
+            },
+            "stock": {
+                "type": "integer"
+            }
+        }
+    },
+    "settings": {
+        "analysis": {
+            "analyzer": {
+                "autocomplete": {
+                    "tokenizer": "autocomplete",
+                    "filter": [
+                        "lowercase"
+                    ]
+                }
+            },
+            "tokenizer": {
+                "autocomplete": {
+                    "type": "edge_ngram",
+                    "min_gram": 1,
+                    "max_gram": 20,
+                    "token_chars": [
+                        "letter",
+                        "digit"
+                    ]
+                }
+            }
+        }
+    }
+}

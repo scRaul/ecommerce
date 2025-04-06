@@ -1,0 +1,31 @@
+@api = http://192.168.33.10:9200
+
+#check status
+GET {{api}}
+
+### put mappings
+PUT {{api}}/products
+Content-Type: application/json
+
+< ../data/prod_mappings.json
+
+### add product listings.json
+PUT {{api}}/products/_bulk
+Content-Type: application/json
+
+< ../data/prod_index.json
+
+###
+GET {{api}}/products/_search
+Content-Type: application/json
+
+{
+  "query": {
+    "multi_match": {
+      "query": "Conveyor Smart Motor",
+      "fields": ["title", "description", "features"]
+    }
+  }
+}
+
+
